@@ -1,0 +1,46 @@
+\documentclass[a4paper,12pt]{book}
+
+% Language setup
+\usepackage[utf8]{inputenc}
+\usepackage[italian]{babel}
+
+
+
+% Other useful packages
+\usepackage{graphicx}  % for including images
+\usepackage{amsmath}   % for math environments
+\usepackage{hyperref}  % for hyperlinks
+\usepackage{datetime} % Pacchetto per il controllo della data
+
+% Imposta il formato della data
+\newdateformat{italianformat}{\day\ \monthname[\THEMONTH] \year} % Imposta il formato italiano
+
+\title{Metodi e tecniche di anatomia, isto e citologia}
+\author{Salvatore Lorenzo Renne}
+\date{\italianformat\today} % Usa il formato italiano per la data
+
+% Modifica il titolo della Table of Contents
+\renewcommand{\contentsname}{Sommario}
+
+% Modifica il titolo per i capitoli
+\renewcommand{\chaptername}{Capitolo}
+
+
+\begin{document}
+
+\maketitle
+\tableofcontents  % Table of contents
+
+% Including chapters
+\input{chapters/chapter1.tex}
+\input{chapters/chapter2.tex}
+\input{chapters/chapter3.tex}
+\input{chapters/chapter4.tex}
+\input{chapters/chapter5.tex}
+\input{chapters/chapter6.tex}
+\input{chapters/chapter7.tex}
+\input{chapters/chapter8.tex}
+\input{chapters/chapter9.tex}
+\input{chapters/chapter10.tex}
+
+\end{document}
