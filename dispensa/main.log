@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2024.9.24)  24 SEP 2024 17:15
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2024.9.24)  24 SEP 2024 18:10
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -23,10 +23,6 @@ File: bk12.clo 2023/05/17 v1.4n Standard LaTeX file (size option)
 \abovecaptionskip=\skip48
 \belowcaptionskip=\skip49
 \bibindent=\dimen140
-) (c:/Users/srenne/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/base/inputenc.sty
-Package: inputenc 2021/02/14 v1.3d Input encoding file
-\inpenc@prehook=\toks17
-\inpenc@posthook=\toks18
 ) (c:/Users/srenne/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/babel/babel.sty
 Package: babel 2023/12/10 v3.99 The Babel package
 \babel@savecnt=\count196
@@ -55,7 +51,11 @@ Package babel Info: You haven't specified a language as a class or package
 (c:/Users/srenne/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/babel/nil.ldf
 Language: nil 2023/12/10 v3.99 Nil language
 \l@nil=\language4
-)) (c:/Users/srenne/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/graphics/graphicx.sty
+)) (c:/Users/srenne/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2021/02/14 v1.3d Input encoding file
+\inpenc@prehook=\toks17
+\inpenc@posthook=\toks18
+) (c:/Users/srenne/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/graphics/graphicx.sty
 Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
  (c:/Users/srenne/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/graphics/keyval.sty
 Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
@@ -246,28 +246,304 @@ Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 285.
 )
 \Hy@SectionHShift=\skip53
+) (c:/Users/srenne/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2023-11-09 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count288
+\l__pdf_internal_box=\box53
+) (./main.aux)
+\openout1 = `main.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+ (c:/Users/srenne/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
+ (c:/Users/srenne/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
+))
+Package hyperref Info: Link coloring OFF on input line 28.
+ (./main.out) (./main.out)
+\@outlinefile=\write3
+\openout3 = `main.out'.
+
+ [1
+
+
+{c:/Users/srenne/AppData/Roaming/TinyTeX/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2
+
+] (./main.toc [3])
+\tf@toc=\write4
+\openout4 = `main.toc'.
+
+ (./chapters/chapter1.tex [4]
+Capitolo 1.
+
+Overfull \hbox (49.90237pt too wide) in paragraph at lines 10--11
+\OT1/cmr/m/n/12 tessuti e la variabilit^^Ra nella qualit^^Ra delle colorazioni istochimiche e immunoistochimiche.
+ []
+
+
+Overfull \hbox (17.9777pt too wide) in paragraph at lines 10--11
+\OT1/cmr/m/n/12 Un problema particolare riguarda l'uso della formaldeide, che pu^^Ro compromettere
+ []
+
+
+Overfull \hbox (16.69809pt too wide) in paragraph at lines 10--11
+\OT1/cmr/m/n/12 il riconoscimento antigenico, soprattutto dopo l'inclusione in paraffina. Tuttavia,
+ []
+
+
+Overfull \hbox (46.27945pt too wide) in paragraph at lines 12--12
+[]\OT1/cmr/bx/n/14.4 Perdita di Componenti Molecolari durante la Fissazione 
+ []
+
+! Misplaced alignment tab character &.
+l.13 ...to, ad esempio con ematossilina-eosina (H&
+                                                  E), può risultare alterat...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+
+Overfull \hbox (33.51782pt too wide) in paragraph at lines 13--14
+\OT1/cmr/m/n/12 lipidi e acidi nucleici, che sono essenziali per mantenere la struttura macromolecolare
+ []
+
+[5
+
+]
+Overfull \hbox (15.6319pt too wide) in paragraph at lines 16--17
+\OT1/cmr/m/n/12 Tuttavia, per scopi diagnostici, ^^Re importante che questi artefatti siano consistenti
+ []
+
+
+Overfull \hbox (22.22072pt too wide) in paragraph at lines 19--20
+\OT1/cmr/m/n/12 Uno degli scopi principali della fissazione ^^Re preservare le strutture macromolecolari
+ []
+
+
+Overfull \hbox (15.55367pt too wide) in paragraph at lines 22--23
+\OT1/cmr/m/n/12 successive, dalla disidratazione alla colorazione del tessuto. L'effetto complessivo
+ []
+
+
+Overfull \hbox (29.6012pt too wide) in paragraph at lines 22--23
+\OT1/cmr/m/n/12 della fissazione, insieme alla processazione del tessuto, rappresenta un compromesso
+ []
+
+
+Overfull \hbox (20.26657pt too wide) in paragraph at lines 25--26
+\OT1/cmr/m/n/12 dipende dall'esigenza specifica di evidenziare determinate caratteristiche tissutali.
+ []
+
+
+Overfull \hbox (1.13622pt too wide) in paragraph at lines 25--26
+\OT1/cmr/m/n/12 Nella patologia diagnostica, il fissativo pi^^Ru utilizzato ^^Re la formalina tamponata
+ []
+
+
+Overfull \hbox (32.7345pt too wide) in paragraph at lines 28--29
+\OT1/cmr/m/n/12 nel tempo, preservando la microarchitettura del tessuto, prevenendo la degradazione
+ []
+
+
+Overfull \hbox (6.232pt too wide) in paragraph at lines 32--33
+\OT1/cmr/m/n/12 provoca la coagulazione delle proteine, permettendo di distinguere chiaramente
+ []
+
+[6]
+
+! LaTeX Error: Unicode character − (U+2212)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.38 ... viene rimossa in una camera a vuoto a −
+                                                  40°C. Successivamente, il...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character − (U+2212)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.38 ...ampioni vengono immersi in fissativi a −
+                                                  40°C, come acetone o alco...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+Overfull \hbox (12.81203pt too wide) in paragraph at lines 38--39
+\OT1/cmr/m/n/12 di ghiaccio, senza denaturare le proteine. L'aumento graduale della temperatura
+ []
+
+[7]
+Overfull \hbox (24.05264pt too wide) in paragraph at lines 45--46
+\OT1/cmr/m/n/12 Sfortunatamente, poich^^Se i fissativi coagulanti causano flocculazione citoplasmatica
+ []
+
+
+Overfull \hbox (7.55513pt too wide) in paragraph at lines 48--49
+\OT1/cmr/m/n/12 metanolo) e acetone. Il metanolo ha una struttura pi^^Ru simile a quella dell'acqua
+ []
+
+
+Overfull \hbox (5.97089pt too wide) in paragraph at lines 48--49
+\OT1/cmr/m/n/12 gruppi chimici idrofobici a entrare in contatto pi^^Ru stretto tra loro, stabilizzando
+ []
+
+
+Overfull \hbox (3.76906pt too wide) in paragraph at lines 48--49
+\OT1/cmr/m/n/12 tali legami. Analogamente, le molecole d'acqua partecipano ai legami idrogeno
+ []
+
+
+Overfull \hbox (19.8402pt too wide) in paragraph at lines 50--51
+[]\OT1/cmr/m/n/12 La distruzione della struttura terziaria delle proteine, ovvero la denaturazione,
+ []
+
+[8]
+Overfull \hbox (3.86026pt too wide) in paragraph at lines 63--64
+\OT1/cmr/m/n/12 acetico coagula gli acidi nucleici ma non fissa n^^Se precipita le proteine; pertanto,
+ []
+
+[9]
+Overfull \hbox (3.2163pt too wide) in paragraph at lines 69--70
+\OT1/cmr/m/n/12 come "formolina". La "formolina al 10%" comunemente usata per la fissazione
+ []
+
+
+Overfull \hbox (8.84308pt too wide) in paragraph at lines 69--70
+\OT1/cmr/m/n/12 collaboratori, utilizzando chimica semplice, hanno identificato meticolosamente
+ []
+
+) (./chapters/chapter2.tex
+! Missing $ inserted.
+<inserted text> 
+                $
+l.1 \chapter
+            {Campionamento: introduzione}
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Display math should end with $$.
+<to be read again> 
+                   \tex_par:D 
+l.1 \chapter
+            {Campionamento: introduzione}
+The `$' that I just saw supposedly matches a previous `$$'.
+So I shall assume that you typed `$$' both times.
+
+[10]
+Capitolo 2.
+) (./chapters/chapter3.tex [11
+
+] [12
+
+]
+Capitolo 3.
+) (./chapters/chapter4.tex [13]
+Overfull \hbox (108.29367pt too wide) has occurred while \output is active
+\OT1/cmr/m/n/12 14 \OT1/cmr/m/sl/12 CAPITOLO 3.  CAMPIONI CHIRURGICI PI[]U FREQUENTI IN ANATOMIA PATOLOGICA
+ []
+
+[14
+
+]
+Capitolo 4.
+) (./chapters/chapter5.tex [15]
+Overfull \hbox (35.22467pt too wide) has occurred while \output is active
+\OT1/cmr/m/n/12 16 \OT1/cmr/m/sl/12 CAPITOLO 4.  CAMPIONAMENTO: CUTI, PICCOLI CAMPIONI E BIOPSIE
+ []
+
+[16
+
+]
+Capitolo 5.
+) (./chapters/chapter6.tex [17] [18
+
+]
+Capitolo 6.
+) (./chapters/chapter7.tex [19] [20
+
+]
+Capitolo 7.
+) (./chapters/chapter8.tex [21] [22
+
+]
+Capitolo 8.
+) (./chapters/chapter9.tex [23] [24
+
+]
+Capitolo 9.
+) (./chapters/chapter10.tex [25] [26
+
+]
+Capitolo 10.
 )
 
-! LaTeX Error: File `datetime.sty' not found.
+! LaTeX Error: \begin{equation*} on input line 71 ended by \end{document}.
 
-Type X to quit or <RETURN> to proceed,
-or enter new name. (Default extension: sty)
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.45 \end{document}
+                   
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
 
-Enter file name: 
-! Emergency stop.
-<read *> 
-         
-l.14 ^^M
-        
-*** (cannot \read from terminal in nonstop modes)
+[27] (./main.aux)
+ ***********
+LaTeX2e <2023-11-01>
+L3 programming layer <2023-12-11>
+ ***********
+Package rerunfilecheck Info: File `main.out' has not changed.
+(rerunfilecheck)             Checksum: 20CD07B69209CD42131391C589BB9287;10196.
+ )
+(\end occurred inside a group at level 1)
 
- 
+### semi simple group (level 1) entered at line 71 (\begingroup)
+### bottom level 
 Here is how much of TeX's memory you used:
- 9360 strings out of 476140
- 145972 string characters out of 5793572
- 1924460 words of memory out of 5000000
- 31346 multiletter control sequences out of 15000+600000
- 558367 words of font info for 37 fonts, out of 8000000 for 9000
+ 9991 strings out of 476140
+ 158778 string characters out of 5793572
+ 1936460 words of memory out of 5000000
+ 31826 multiletter control sequences out of 15000+600000
+ 565657 words of font info for 62 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 75i,0n,79p,291b,36s stack positions out of 10000i,1000n,20000p,200000b,200000s
-!  ==> Fatal error occurred, no output PDF file produced!
+ 75i,6n,79p,1636b,547s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ <c:/Users/srenne/AppData/Roaming/TinyTeX/texmf-var/fonts/pk/ljfour/jknappen/ec/tcrm1200.600pk><c:/Users/srenne/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><c:/Users/srenne/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><c:/Users/srenne/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb><c:/Users/srenne/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb><c:/Users/srenne/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl12.pfb><c:/Users/srenne/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
+Output written on main.pdf (27 pages, 107850 bytes).
+PDF statistics:
+ 420 PDF objects out of 1000 (max. 8388607)
+ 373 compressed objects within 4 object streams
+ 81 named destinations out of 1000 (max. 500000)
+ 377 words of extra memory for PDF output out of 10000 (max. 10000000)
+
