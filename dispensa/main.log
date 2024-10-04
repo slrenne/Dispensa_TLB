@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.10.3)  4 OCT 2024 14:44
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.10.3)  4 OCT 2024 14:58
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -613,15 +613,15 @@ Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: 924D7B9F009CE999C2C6D8256400775E;14516.
  ) 
 Here is how much of TeX's memory you used:
- 9317 strings out of 475495
- 146641 string characters out of 5774438
+ 9321 strings out of 475495
+ 146683 string characters out of 5774438
  553073 words of memory out of 5000000
- 31728 multiletter control sequences out of 15000+600000
- 565969 words of font info for 63 fonts, out of 8000000 for 9000
+ 31730 multiletter control sequences out of 15000+600000
+ 566646 words of font info for 65 fonts, out of 8000000 for 9000
  36 hyphenation exceptions out of 8191
  75i,6n,79p,1370b,475s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <c:/Users/srenne/AppData/Roaming/TinyTeX/texmf-var/fonts/pk/ljfour/jknappen/ec/tcrm1200.600pk><c:/Users/srenne/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><c:/Users/srenne/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx6.pfb><c:/Users/srenne/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><c:/Users/srenne/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb><c:/Users/srenne/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb><c:/Users/srenne/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb><c:/Users/srenne/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl12.pfb><c:/Users/srenne/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
-Output written on main.pdf (37 pages, 165212 bytes).
+Output written on main.pdf (37 pages, 165233 bytes).
 PDF statistics:
  565 PDF objects out of 1000 (max. 8388607)
  502 compressed objects within 6 object streams
