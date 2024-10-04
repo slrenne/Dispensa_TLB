@@ -15,50 +15,50 @@
 \contentsline {section}{\numberline {1.3}Fissazione Chimica}{10}{section.1.3}%
 \contentsline {subsection}{\numberline {1.3.1}Fissativi Coagulanti}{10}{subsection.1.3.1}%
 \contentsline {subsection}{\numberline {1.3.2}Fissativi Coagulanti Deidranti}{10}{subsection.1.3.2}%
-\contentsline {subsection}{\numberline {1.3.3}Altri Tipi di Fissativi Coagulanti}{11}{subsection.1.3.3}%
-\contentsline {subsection}{\numberline {1.3.4}Fissativi a Legame Incrociato Non Coagulanti}{12}{subsection.1.3.4}%
-\contentsline {section}{\numberline {1.4}Fissazione con Formaldeide}{12}{section.1.4}%
-\contentsline {subsection}{\numberline {1.4.1}Reazioni della Formaldeide con Proteine Nucleari e Acidi Nucleici}{13}{subsection.1.4.1}%
-\contentsline {subsubsection}{Catene Laterali Più Reattive con la Formaldeide}{13}{section*.2}%
-\contentsline {subsection}{\numberline {1.4.2}Reversibilità delle reazioni macromolecolari della formaldeide}{13}{subsection.1.4.2}%
-\contentsline {subsection}{\numberline {1.4.3}Effetto del lavaggio prolungato}{13}{subsection.1.4.3}%
-\contentsline {subsection}{\numberline {1.4.4}Conservazione a lungo termine in formalina}{14}{subsection.1.4.4}%
-\contentsline {subsection}{\numberline {1.4.5}Importanza dei ponti metilenici}{14}{subsection.1.4.5}%
-\contentsline {subsection}{\numberline {1.4.6}Correzione dell'iperfissazione}{14}{subsection.1.4.6}%
-\contentsline {subsection}{\numberline {1.4.7}Tipi di legami crociati e loro stabilità}{14}{subsection.1.4.7}%
-\contentsline {subsection}{\numberline {1.4.8}Saturazione dei tessuti con formalina}{14}{subsection.1.4.8}%
-\contentsline {subsection}{\numberline {1.4.9}Effetto dell'acidità nella formalina}{14}{subsection.1.4.9}%
-\contentsline {subsection}{\numberline {1.4.10}Uso della formalina acida in immunoistochimica}{15}{subsection.1.4.10}%
-\contentsline {subsection}{\numberline {1.4.11}Effetto della formaldeide su proteine, nucleotidi e lipidi}{15}{subsection.1.4.11}%
-\contentsline {section}{\numberline {1.5}Fattori che Influenzano la Qualità della Fissazione}{15}{section.1.5}%
-\contentsline {subsection}{\numberline {1.5.1}Buffer e pH}{15}{subsection.1.5.1}%
-\contentsline {subsection}{\numberline {1.5.2}Durata della Fissazione e Dimensione dei Campioni}{16}{subsection.1.5.2}%
-\contentsline {subsection}{\numberline {1.5.3}Temperatura della Fissazione}{17}{subsection.1.5.3}%
-\contentsline {subsection}{\numberline {1.5.4}Riassunto}{17}{subsection.1.5.4}%
-\contentsline {chapter}{\numberline {2}Campionamento: introduzione}{19}{chapter.2}%
-\contentsline {section}{\numberline {2.1}Definizione del campionamento}{19}{section.2.1}%
-\contentsline {section}{\numberline {2.2}Obiettivi del campionamento}{19}{section.2.2}%
-\contentsline {chapter}{\numberline {3}Campioni chirurgici più frequenti in anatomia patologica}{21}{chapter.3}%
-\contentsline {section}{\numberline {3.1}Tipologie di campioni chirurgici}{21}{section.3.1}%
-\contentsline {section}{\numberline {3.2}Metodologie di trattamento dei campioni}{21}{section.3.2}%
-\contentsline {chapter}{\numberline {4}Campionamento: cuti, piccoli campioni e biopsie}{23}{chapter.4}%
-\contentsline {section}{\numberline {4.1}Campionamento di tessuti cutanei}{23}{section.4.1}%
-\contentsline {section}{\numberline {4.2}Biopsie}{23}{section.4.2}%
-\contentsline {chapter}{\numberline {5}Processazione pezzi chirurgici e bioptici}{25}{chapter.5}%
-\contentsline {section}{\numberline {5.1}Tecniche di processazione}{25}{section.5.1}%
-\contentsline {section}{\numberline {5.2}Problematiche nella processazione}{25}{section.5.2}%
-\contentsline {chapter}{\numberline {6}Inclusione in paraffina}{27}{chapter.6}%
-\contentsline {section}{\numberline {6.1}Procedura di inclusione}{27}{section.6.1}%
-\contentsline {section}{\numberline {6.2}Considerazioni tecniche}{27}{section.6.2}%
-\contentsline {chapter}{\numberline {7}Taglio al microtomo}{29}{chapter.7}%
-\contentsline {section}{\numberline {7.1}Tipologie di microtomi}{29}{section.7.1}%
-\contentsline {section}{\numberline {7.2}Tecniche di taglio}{29}{section.7.2}%
-\contentsline {chapter}{\numberline {8}Automazione in anatomia patologica}{31}{chapter.8}%
-\contentsline {section}{\numberline {8.1}Sistemi automatizzati}{31}{section.8.1}%
-\contentsline {section}{\numberline {8.2}Vantaggi e svantaggi dell’automazione}{31}{section.8.2}%
-\contentsline {chapter}{\numberline {9}Esame intraoperatorio: finalità e mezzi}{33}{chapter.9}%
-\contentsline {section}{\numberline {9.1}Obiettivi dell’esame intraoperatorio}{33}{section.9.1}%
-\contentsline {section}{\numberline {9.2}Strumenti utilizzati}{33}{section.9.2}%
-\contentsline {chapter}{\numberline {10}Tecnica esame intraoperatorio}{35}{chapter.10}%
-\contentsline {section}{\numberline {10.1}Procedura passo-passo}{35}{section.10.1}%
-\contentsline {section}{\numberline {10.2}Problematiche e considerazioni pratiche}{35}{section.10.2}%
+\contentsline {subsection}{\numberline {1.3.3}Altri Tipi di Fissativi Coagulanti}{12}{subsection.1.3.3}%
+\contentsline {subsection}{\numberline {1.3.4}Fissativi a Legame Incrociato Non Coagulanti}{13}{subsection.1.3.4}%
+\contentsline {section}{\numberline {1.4}Fissazione con Formaldeide}{13}{section.1.4}%
+\contentsline {subsection}{\numberline {1.4.1}Reazioni della Formaldeide con Proteine Nucleari e Acidi Nucleici}{14}{subsection.1.4.1}%
+\contentsline {subsubsection}{Catene Laterali Più Reattive con la Formaldeide}{14}{section*.2}%
+\contentsline {subsection}{\numberline {1.4.2}Reversibilità delle reazioni macromolecolari della formaldeide}{14}{subsection.1.4.2}%
+\contentsline {subsection}{\numberline {1.4.3}Effetto del lavaggio prolungato}{14}{subsection.1.4.3}%
+\contentsline {subsection}{\numberline {1.4.4}Conservazione a lungo termine in formalina}{15}{subsection.1.4.4}%
+\contentsline {subsection}{\numberline {1.4.5}Importanza dei ponti metilenici}{15}{subsection.1.4.5}%
+\contentsline {subsection}{\numberline {1.4.6}Correzione dell'iperfissazione}{15}{subsection.1.4.6}%
+\contentsline {subsection}{\numberline {1.4.7}Tipi di legami crociati e loro stabilità}{15}{subsection.1.4.7}%
+\contentsline {subsection}{\numberline {1.4.8}Saturazione dei tessuti con formalina}{15}{subsection.1.4.8}%
+\contentsline {subsection}{\numberline {1.4.9}Effetto dell'acidità nella formalina}{15}{subsection.1.4.9}%
+\contentsline {subsection}{\numberline {1.4.10}Uso della formalina acida in immunoistochimica}{16}{subsection.1.4.10}%
+\contentsline {subsection}{\numberline {1.4.11}Effetto della formaldeide su proteine, nucleotidi e lipidi}{16}{subsection.1.4.11}%
+\contentsline {section}{\numberline {1.5}Fattori che Influenzano la Qualità della Fissazione}{16}{section.1.5}%
+\contentsline {subsection}{\numberline {1.5.1}Buffer e pH}{16}{subsection.1.5.1}%
+\contentsline {subsection}{\numberline {1.5.2}Durata della Fissazione e Dimensione dei Campioni}{17}{subsection.1.5.2}%
+\contentsline {subsection}{\numberline {1.5.3}Temperatura della Fissazione}{18}{subsection.1.5.3}%
+\contentsline {subsection}{\numberline {1.5.4}Riassunto}{18}{subsection.1.5.4}%
+\contentsline {chapter}{\numberline {2}Campionamento: introduzione}{21}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Definizione del campionamento}{21}{section.2.1}%
+\contentsline {section}{\numberline {2.2}Obiettivi del campionamento}{21}{section.2.2}%
+\contentsline {chapter}{\numberline {3}Campioni chirurgici più frequenti in anatomia patologica}{23}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Tipologie di campioni chirurgici}{23}{section.3.1}%
+\contentsline {section}{\numberline {3.2}Metodologie di trattamento dei campioni}{23}{section.3.2}%
+\contentsline {chapter}{\numberline {4}Campionamento: cuti, piccoli campioni e biopsie}{25}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Campionamento di tessuti cutanei}{25}{section.4.1}%
+\contentsline {section}{\numberline {4.2}Biopsie}{25}{section.4.2}%
+\contentsline {chapter}{\numberline {5}Processazione pezzi chirurgici e bioptici}{27}{chapter.5}%
+\contentsline {section}{\numberline {5.1}Tecniche di processazione}{27}{section.5.1}%
+\contentsline {section}{\numberline {5.2}Problematiche nella processazione}{27}{section.5.2}%
+\contentsline {chapter}{\numberline {6}Inclusione in paraffina}{29}{chapter.6}%
+\contentsline {section}{\numberline {6.1}Procedura di inclusione}{29}{section.6.1}%
+\contentsline {section}{\numberline {6.2}Considerazioni tecniche}{29}{section.6.2}%
+\contentsline {chapter}{\numberline {7}Taglio al microtomo}{31}{chapter.7}%
+\contentsline {section}{\numberline {7.1}Tipologie di microtomi}{31}{section.7.1}%
+\contentsline {section}{\numberline {7.2}Tecniche di taglio}{31}{section.7.2}%
+\contentsline {chapter}{\numberline {8}Automazione in anatomia patologica}{33}{chapter.8}%
+\contentsline {section}{\numberline {8.1}Sistemi automatizzati}{33}{section.8.1}%
+\contentsline {section}{\numberline {8.2}Vantaggi e svantaggi dell’automazione}{33}{section.8.2}%
+\contentsline {chapter}{\numberline {9}Esame intraoperatorio: finalità e mezzi}{35}{chapter.9}%
+\contentsline {section}{\numberline {9.1}Obiettivi dell’esame intraoperatorio}{35}{section.9.1}%
+\contentsline {section}{\numberline {9.2}Strumenti utilizzati}{35}{section.9.2}%
+\contentsline {chapter}{\numberline {10}Tecnica esame intraoperatorio}{37}{chapter.10}%
+\contentsline {section}{\numberline {10.1}Procedura passo-passo}{37}{section.10.1}%
+\contentsline {section}{\numberline {10.2}Problematiche e considerazioni pratiche}{37}{section.10.2}%
