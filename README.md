@@ -4,7 +4,7 @@
 
 ### Lezioni
 
-1.  Fissazione tessuto istologico ( tipi di fissativi , problemi di fissazione)
+1.  Fissazione tessuto istologico (tipi di fissativi, problemi di fissazione)
 2.  Campionamento introduzione
 3.  Campioni chirurgici più frequenti in anatomia patologica
 4.  Campionamento cuti, piccoli campioni e biopsie
@@ -15,4 +15,4 @@
 9.  Esame intraoperatorio finalità e mezzi
 10. Tecnica esame intraoperatorio.
 
-La dispensa può essere scaricata [qui](https://github.com/slrenne/Dispensa_TLB/blob/d14313524fedc370af1dc2fd2e6f7fb7c7a74107/dispensa/main.pdf). [qui](./dispensa/main.pdf)
+La versione aggiornata della dispensa può essere scaricata [qui](./dispensa/main.pdf).
