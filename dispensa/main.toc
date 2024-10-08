@@ -55,41 +55,42 @@
 \contentsline {section}{\numberline {2.3}Caratteristiche Generali della Sala Macroscopica}{25}{section.2.3}%
 \contentsline {subsection}{\numberline {2.3.1}Dimensioni e Illuminazione}{26}{subsection.2.3.1}%
 \contentsline {subsection}{\numberline {2.3.2}Stazioni di Lavoro}{26}{subsection.2.3.2}%
-\contentsline {subsection}{\numberline {2.3.3}Postura durante la dissezione}{26}{subsection.2.3.3}%
-\contentsline {subsection}{\numberline {2.3.4}Strumenti di dissezione}{26}{subsection.2.3.4}%
+\contentsline {subsection}{\numberline {2.3.3}Postura durante la dissezione}{27}{subsection.2.3.3}%
+\contentsline {subsection}{\numberline {2.3.4}Strumenti di dissezione}{27}{subsection.2.3.4}%
 \contentsline {subsection}{\numberline {2.3.5}Conservazione e gestione dei campioni}{27}{subsection.2.3.5}%
-\contentsline {section}{\numberline {2.4}Principi Generali per l'Esame Macroscopico}{27}{section.2.4}%
-\contentsline {subsection}{\numberline {2.4.1}Identificazione e Orientamento del Campione}{27}{subsection.2.4.1}%
-\contentsline {subsection}{\numberline {2.4.2}Difficoltà nell'Orientamento del Campione}{27}{subsection.2.4.2}%
+\contentsline {section}{\numberline {2.4}Principi Generali per l'Esame Macroscopico}{28}{section.2.4}%
+\contentsline {subsection}{\numberline {2.4.1}Identificazione e Orientamento del Campione}{28}{subsection.2.4.1}%
+\contentsline {subsection}{\numberline {2.4.2}Difficoltà nell'Orientamento del Campione}{28}{subsection.2.4.2}%
 \contentsline {subsection}{\numberline {2.4.3}Manipolazione del Campione}{28}{subsection.2.4.3}%
 \contentsline {subsection}{\numberline {2.4.4}Importanza della Conoscenza Anatomica del Patologo}{28}{subsection.2.4.4}%
-\contentsline {subsection}{\numberline {2.4.5}Margini Chirurgici e Diagnosi Istologica}{28}{subsection.2.4.5}%
-\contentsline {subsection}{\numberline {2.4.6}Dissezione del Campione Chirurgico}{28}{subsection.2.4.6}%
+\contentsline {subsection}{\numberline {2.4.5}Margini Chirurgici e Diagnosi Istologica}{29}{subsection.2.4.5}%
+\contentsline {subsection}{\numberline {2.4.6}Dissezione del Campione Chirurgico}{29}{subsection.2.4.6}%
 \contentsline {subsection}{\numberline {2.4.7}Gestione di Campioni con Tessuti Molli e Ossa}{29}{subsection.2.4.7}%
 \contentsline {subsection}{\numberline {2.4.8}Conservazione delle Sezioni e Campioni}{29}{subsection.2.4.8}%
-\contentsline {subsection}{\numberline {2.4.9}Contaminazione dei Campioni}{29}{subsection.2.4.9}%
-\contentsline {subsection}{\numberline {2.4.10}Errori di Etichettatura}{29}{subsection.2.4.10}%
-\contentsline {chapter}{\numberline {3}Campioni chirurgici più frequenti in anatomia patologica}{31}{chapter.3}%
-\contentsline {section}{\numberline {3.1}Tipologie di campioni chirurgici}{31}{section.3.1}%
-\contentsline {section}{\numberline {3.2}Metodologie di trattamento dei campioni}{31}{section.3.2}%
-\contentsline {chapter}{\numberline {4}Campionamento: cuti, piccoli campioni e biopsie}{33}{chapter.4}%
-\contentsline {section}{\numberline {4.1}Campionamento di tessuti cutanei}{33}{section.4.1}%
-\contentsline {section}{\numberline {4.2}Biopsie}{33}{section.4.2}%
-\contentsline {chapter}{\numberline {5}Processazione pezzi chirurgici e bioptici}{35}{chapter.5}%
-\contentsline {section}{\numberline {5.1}Tecniche di processazione}{35}{section.5.1}%
-\contentsline {section}{\numberline {5.2}Problematiche nella processazione}{35}{section.5.2}%
-\contentsline {chapter}{\numberline {6}Inclusione in paraffina}{37}{chapter.6}%
-\contentsline {section}{\numberline {6.1}Procedura di inclusione}{37}{section.6.1}%
-\contentsline {section}{\numberline {6.2}Considerazioni tecniche}{37}{section.6.2}%
-\contentsline {chapter}{\numberline {7}Taglio al microtomo}{39}{chapter.7}%
-\contentsline {section}{\numberline {7.1}Tipologie di microtomi}{39}{section.7.1}%
-\contentsline {section}{\numberline {7.2}Tecniche di taglio}{39}{section.7.2}%
-\contentsline {chapter}{\numberline {8}Automazione in anatomia patologica}{41}{chapter.8}%
-\contentsline {section}{\numberline {8.1}Sistemi automatizzati}{41}{section.8.1}%
-\contentsline {section}{\numberline {8.2}Vantaggi e svantaggi dell’automazione}{41}{section.8.2}%
-\contentsline {chapter}{\numberline {9}Esame intraoperatorio: finalità e mezzi}{43}{chapter.9}%
-\contentsline {section}{\numberline {9.1}Obiettivi dell’esame intraoperatorio}{43}{section.9.1}%
-\contentsline {section}{\numberline {9.2}Strumenti utilizzati}{43}{section.9.2}%
-\contentsline {chapter}{\numberline {10}Tecnica esame intraoperatorio}{45}{chapter.10}%
-\contentsline {section}{\numberline {10.1}Procedura passo-passo}{45}{section.10.1}%
-\contentsline {section}{\numberline {10.2}Problematiche e considerazioni pratiche}{45}{section.10.2}%
+\contentsline {subsection}{\numberline {2.4.9}Contaminazione dei Campioni}{30}{subsection.2.4.9}%
+\contentsline {subsection}{\numberline {2.4.10}Errori di Etichettatura}{30}{subsection.2.4.10}%
+\contentsline {subsection}{\numberline {2.4.11}Riassunto}{30}{subsection.2.4.11}%
+\contentsline {chapter}{\numberline {3}Campioni chirurgici più frequenti in anatomia patologica}{33}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Tipologie di campioni chirurgici}{33}{section.3.1}%
+\contentsline {section}{\numberline {3.2}Metodologie di trattamento dei campioni}{33}{section.3.2}%
+\contentsline {chapter}{\numberline {4}Campionamento: cuti, piccoli campioni e biopsie}{35}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Campionamento di tessuti cutanei}{35}{section.4.1}%
+\contentsline {section}{\numberline {4.2}Biopsie}{35}{section.4.2}%
+\contentsline {chapter}{\numberline {5}Processazione pezzi chirurgici e bioptici}{37}{chapter.5}%
+\contentsline {section}{\numberline {5.1}Tecniche di processazione}{37}{section.5.1}%
+\contentsline {section}{\numberline {5.2}Problematiche nella processazione}{37}{section.5.2}%
+\contentsline {chapter}{\numberline {6}Inclusione in paraffina}{39}{chapter.6}%
+\contentsline {section}{\numberline {6.1}Procedura di inclusione}{39}{section.6.1}%
+\contentsline {section}{\numberline {6.2}Considerazioni tecniche}{39}{section.6.2}%
+\contentsline {chapter}{\numberline {7}Taglio al microtomo}{41}{chapter.7}%
+\contentsline {section}{\numberline {7.1}Tipologie di microtomi}{41}{section.7.1}%
+\contentsline {section}{\numberline {7.2}Tecniche di taglio}{41}{section.7.2}%
+\contentsline {chapter}{\numberline {8}Automazione in anatomia patologica}{43}{chapter.8}%
+\contentsline {section}{\numberline {8.1}Sistemi automatizzati}{43}{section.8.1}%
+\contentsline {section}{\numberline {8.2}Vantaggi e svantaggi dell’automazione}{43}{section.8.2}%
+\contentsline {chapter}{\numberline {9}Esame intraoperatorio: finalità e mezzi}{45}{chapter.9}%
+\contentsline {section}{\numberline {9.1}Obiettivi dell’esame intraoperatorio}{45}{section.9.1}%
+\contentsline {section}{\numberline {9.2}Strumenti utilizzati}{45}{section.9.2}%
+\contentsline {chapter}{\numberline {10}Tecnica esame intraoperatorio}{47}{chapter.10}%
+\contentsline {section}{\numberline {10.1}Procedura passo-passo}{47}{section.10.1}%
+\contentsline {section}{\numberline {10.2}Problematiche e considerazioni pratiche}{47}{section.10.2}%
