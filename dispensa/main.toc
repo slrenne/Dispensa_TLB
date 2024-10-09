@@ -88,8 +88,8 @@
 \contentsline {subsection}{\numberline {3.3.1}Impatto della diagnosi patologica}{37}{subsection.3.3.1}%
 \contentsline {subsubsection}{Istotipo e Grado}{37}{section*.2}%
 \contentsline {subsection}{\numberline {3.3.2}Valutazione dei margini chirurgici}{38}{subsection.3.3.2}%
-\contentsline {subsection}{\numberline {3.3.3}Stadiazione TNM}{38}{subsection.3.3.3}%
-\contentsline {subsection}{\numberline {3.3.4}Importanza del campionamento nella patologie neoplstiche}{39}{subsection.3.3.4}%
+\contentsline {subsection}{\numberline {3.3.3}Stadiazione TNM}{39}{subsection.3.3.3}%
+\contentsline {subsection}{\numberline {3.3.4}Importanza del campionamento nella patologie neoplstiche}{40}{subsection.3.3.4}%
 \contentsline {chapter}{\numberline {4}Campionamento: cuti, piccoli campioni e biopsie}{41}{chapter.4}%
 \contentsline {section}{\numberline {4.1}Campionamento di tessuti cutanei}{41}{section.4.1}%
 \contentsline {section}{\numberline {4.2}Biopsie}{41}{section.4.2}%
