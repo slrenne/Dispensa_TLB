@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.10.3)  9 OCT 2024 17:23
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.10.3)  10 OCT 2024 05:13
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -547,7 +547,7 @@ Overfull \hbox (7.90009pt too wide) has occurred while \output is active
  []
 
 [25]
-<./chapters/images/materiale_campionamento.jpg, id=694, 3035.34pt x 1758.57pt>
+<./chapters/images/materiale_campionamento.jpg, id=709, 3035.34pt x 1758.57pt>
 File: ./chapters/images/materiale_campionamento.jpg Graphic file (type jpg)
 <use ./chapters/images/materiale_campionamento.jpg>
 Package pdftex.def Info: ./chapters/images/materiale_campionamento.jpg  used on input line 79.
@@ -584,26 +584,23 @@ Overfull \hbox (7.90009pt too wide) has occurred while \output is active
 [32]
 Capitolo 3.
 
-Overfull \hbox (13.31248pt too wide) in paragraph at lines 9--10
+Overfull \hbox (13.31248pt too wide) in paragraph at lines 10--11
 \OT1/cmr/m/n/12 La sec-onda situ-azione ^^Re la chirur-gia non elet-tiva, ovvero un in-ter-vento d'urgenza.
  []
-
-
-Overfull \hbox (8.11208pt too wide) in paragraph at lines 12--13
-\OT1/cmr/m/n/12 ag-nosi. Per le pa-tolo-gie neo-plas-tiche, la di-ag-nosi non si limita all'identificazione
- []
-
-
-Underfull \vbox (badness 6477) has occurred while \output is active []
 
 
 
 [33
 
 ]
+Overfull \hbox (8.11208pt too wide) in paragraph at lines 13--14
+\OT1/cmr/m/n/12 ag-nosi. Per le pa-tolo-gie neo-plas-tiche, la di-ag-nosi non si limita all'identificazione
+ []
+
+
 
 [34]
-Overfull \hbox (7.34578pt too wide) in paragraph at lines 20--20
+Overfull \hbox (7.34578pt too wide) in paragraph at lines 21--21
 []\OT1/cmr/bx/n/17.28 Distinzione fra pezzi neo-plas-tici e non neo-
  []
 
@@ -617,29 +614,29 @@ Overfull \hbox (0.30588pt too wide) has occurred while \output is active
 [35]
 
 [36]
-Overfull \hbox (2.50945pt too wide) in paragraph at lines 52--53
+Overfull \hbox (2.50945pt too wide) in paragraph at lines 53--54
 []\OT1/cmr/bx/n/12 Carcinoma della prostata: \OT1/cmr/m/n/12 Il sis-tema di \OT1/cmr/m/it/12 Glea-son \OT1/cmr/m/n/12 va-l-uta l'architettura
  []
 
 
 
 [37]
-<./chapters/images/campionamento_margini.jpg, id=755, 2689.04625pt x 3035.34pt>
+<./chapters/images/campionamento_margini.jpg, id=770, 2689.04625pt x 3035.34pt>
 File: ./chapters/images/campionamento_margini.jpg Graphic file (type jpg)
 <use ./chapters/images/campionamento_margini.jpg>
-Package pdftex.def Info: ./chapters/images/campionamento_margini.jpg  used on input line 58.
+Package pdftex.def Info: ./chapters/images/campionamento_margini.jpg  used on input line 59.
 (pdftex.def)             Requested size: 331.50238pt x 374.18292pt.
 
 
 [38 <./chapters/images/campionamento_margini.jpg>]
-LaTeX Font Info:    Trying to load font information for OML+cmr on input line 95.
+LaTeX Font Info:    Trying to load font information for OML+cmr on input line 96.
  (c:/Users/srenne/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/base/omlcmr.fd
 File: omlcmr.fd 2023/04/13 v2.5m Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OML/cmr/m/n' in size <12> not available
-(Font)              Font shape `OML/cmm/m/it' tried instead on input line 95.
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 96.
 
-Overfull \hbox (17.85352pt too wide) in paragraph at lines 91--108
+Overfull \hbox (17.85352pt too wide) in paragraph at lines 92--109
  [][] 
  []
 
@@ -648,88 +645,115 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
 
-[39]) (./chapters/chapter4.tex
+[39]
 
 [40]
+
+[41]
+Overfull \hbox (19.1439pt too wide) in paragraph at lines 152--153
+\OT1/cmr/m/n/12 quanto riguarda la sta-di-azione e il cam-pi-ona-mento anato-mopa-to-logico. L'istotipo
+ []
+
+
+
+[42]
+Overfull \hbox (35.71379pt too wide) in paragraph at lines 166--167
+ []\OT1/cmr/bx/n/12 Carcinoma spinocel-lu-lare[] \OT1/cmr/m/n/12 Nel car-ci-noma spinocel-lu-lare, che orig-ina dall'epitelio
+ []
+
+
+
+[43]
+
+[44]
+Overfull \hbox (2.18481pt too wide) in paragraph at lines 196--197
+\OT1/cmr/m/n/12 morale e quello sano per per-me-t-tere la cor-retta es-e-cuzione delle anal-isi moleco-
+ []
+
+
+
+[45]) (./chapters/chapter4.tex
+
+[46]
 Capitolo 4.
 ) (./chapters/chapter5.tex
 
-[41
+[47
 
 ]
 
 
 Overfull \hbox (35.22467pt too wide) has occurred while \output is active
-\OT1/cmr/m/n/12 42 \OT1/cmr/m/sl/12 CAPITOLO 4.  CAMPIONAMENTO: CUTI, PICCOLI CAMPIONI E BIOPSIE
+\OT1/cmr/m/n/12 48 \OT1/cmr/m/sl/12 CAPITOLO 4.  CAMPIONAMENTO: CUTI, PICCOLI CAMPIONI E BIOPSIE
  []
-
-[42
-
-]
-Capitolo 5.
-) (./chapters/chapter6.tex
-
-[43]
-
-[44
-
-]
-Capitolo 6.
-) (./chapters/chapter7.tex
-
-[45]
-
-[46
-
-]
-Capitolo 7.
-) (./chapters/chapter8.tex
-
-[47]
 
 [48
 
 ]
-Capitolo 8.
-) (./chapters/chapter9.tex
+Capitolo 5.
+) (./chapters/chapter6.tex
 
 [49]
 
 [50
 
 ]
-Capitolo 9.
-) (./chapters/chapter10.tex
+Capitolo 6.
+) (./chapters/chapter7.tex
 
 [51]
 
 [52
 
 ]
+Capitolo 7.
+) (./chapters/chapter8.tex
+
+[53]
+
+[54
+
+]
+Capitolo 8.
+) (./chapters/chapter9.tex
+
+[55]
+
+[56
+
+]
+Capitolo 9.
+) (./chapters/chapter10.tex
+
+[57]
+
+[58
+
+]
 Capitolo 10.
 )
 
-[53] (./main.aux)
+[59] (./main.aux)
  ***********
 LaTeX2e <2024-06-01> patch level 2
 L3 programming layer <2024-09-10>
  ***********
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 1FDF269DD41038D884E6D3C6D930370A;25433.
+(rerunfilecheck)             Checksum: 1AB4A3A13EAD1684CC44B2CBCA3D7DE5;25894.
  ) 
 Here is how much of TeX's memory you used:
- 9506 strings out of 475495
- 150381 string characters out of 5774438
+ 9537 strings out of 475495
+ 150697 string characters out of 5774438
  553826 words of memory out of 5000000
- 31839 multiletter control sequences out of 15000+600000
+ 31842 multiletter control sequences out of 15000+600000
  568284 words of font info for 70 fonts, out of 8000000 for 9000
  36 hyphenation exceptions out of 8191
  75i,8n,79p,1370b,511s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <c:/Users/srenne/AppData/Roaming/TinyTeX/texmf-var/fonts/pk/ljfour/jknappen/ec/tcrm1200.600pk><c:/Users/srenne/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><c:/Users/srenne/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx6.pfb><c:/Users/srenne/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmbxti10.pfb><c:/Users/srenne/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb><c:/Users/srenne/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/Users/srenne/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><c:/Users/srenne/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb><c:/Users/srenne/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb><c:/Users/srenne/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb><c:/Users/srenne/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb><c:/Users/srenne/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl12.pfb><c:/Users/srenne/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb><c:/Users/srenne/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb><c:/Users/srenne/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on main.pdf (53 pages, 1801651 bytes).
+Output written on main.pdf (59 pages, 1821904 bytes).
 PDF statistics:
- 932 PDF objects out of 1000 (max. 8388607)
- 835 compressed objects within 9 object streams
- 179 named destinations out of 1000 (max. 500000)
- 907 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 999 PDF objects out of 1000 (max. 8388607)
+ 896 compressed objects within 9 object streams
+ 207 named destinations out of 1000 (max. 500000)
+ 931 words of extra memory for PDF output out of 10000 (max. 10000000)
 

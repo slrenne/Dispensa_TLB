@@ -90,24 +90,44 @@
 \contentsline {subsection}{\numberline {3.3.2}Valutazione dei margini chirurgici}{38}{subsection.3.3.2}%
 \contentsline {subsection}{\numberline {3.3.3}Stadiazione TNM}{39}{subsection.3.3.3}%
 \contentsline {subsection}{\numberline {3.3.4}Importanza del campionamento nella patologie neoplstiche}{40}{subsection.3.3.4}%
-\contentsline {chapter}{\numberline {4}Campionamento: cuti, piccoli campioni e biopsie}{41}{chapter.4}%
-\contentsline {section}{\numberline {4.1}Campionamento di tessuti cutanei}{41}{section.4.1}%
-\contentsline {section}{\numberline {4.2}Biopsie}{41}{section.4.2}%
-\contentsline {chapter}{\numberline {5}Processazione pezzi chirurgici e bioptici}{43}{chapter.5}%
-\contentsline {section}{\numberline {5.1}Tecniche di processazione}{43}{section.5.1}%
-\contentsline {section}{\numberline {5.2}Problematiche nella processazione}{43}{section.5.2}%
-\contentsline {chapter}{\numberline {6}Inclusione in paraffina}{45}{chapter.6}%
-\contentsline {section}{\numberline {6.1}Procedura di inclusione}{45}{section.6.1}%
-\contentsline {section}{\numberline {6.2}Considerazioni tecniche}{45}{section.6.2}%
-\contentsline {chapter}{\numberline {7}Taglio al microtomo}{47}{chapter.7}%
-\contentsline {section}{\numberline {7.1}Tipologie di microtomi}{47}{section.7.1}%
-\contentsline {section}{\numberline {7.2}Tecniche di taglio}{47}{section.7.2}%
-\contentsline {chapter}{\numberline {8}Automazione in anatomia patologica}{49}{chapter.8}%
-\contentsline {section}{\numberline {8.1}Sistemi automatizzati}{49}{section.8.1}%
-\contentsline {section}{\numberline {8.2}Vantaggi e svantaggi dell’automazione}{49}{section.8.2}%
-\contentsline {chapter}{\numberline {9}Esame intraoperatorio: finalità e mezzi}{51}{chapter.9}%
-\contentsline {section}{\numberline {9.1}Obiettivi dell’esame intraoperatorio}{51}{section.9.1}%
-\contentsline {section}{\numberline {9.2}Strumenti utilizzati}{51}{section.9.2}%
-\contentsline {chapter}{\numberline {10}Tecnica esame intraoperatorio}{53}{chapter.10}%
-\contentsline {section}{\numberline {10.1}Procedura passo-passo}{53}{section.10.1}%
-\contentsline {section}{\numberline {10.2}Problematiche e considerazioni pratiche}{53}{section.10.2}%
+\contentsline {section}{\numberline {3.4}Tumore della mammella}{40}{section.3.4}%
+\contentsline {subsubsection}{Strategie di campionamento}{40}{section*.3}%
+\contentsline {paragraph}{Quadrantectomia}{40}{section*.4}%
+\contentsline {paragraph}{Mastectomia}{41}{section*.5}%
+\contentsline {subsubsection}{Misurazione dei margini chirurgici}{41}{section*.6}%
+\contentsline {subsubsection}{Fattori prognostici e predittivi}{41}{section*.7}%
+\contentsline {subsubsection}{Conclusione}{42}{section*.8}%
+\contentsline {section}{\numberline {3.5}Tumore del polmone}{42}{section.3.5}%
+\contentsline {subsubsection}{Caratteristiche istologiche e distribuzione}{42}{section*.9}%
+\contentsline {subsubsection}{Approccio al campione chirurgico}{43}{section*.10}%
+\contentsline {subsubsection}{Campionamento dell’albero bronchiale}{43}{section*.11}%
+\contentsline {paragraph}{Carcinoma spinocellulare}{43}{section*.12}%
+\contentsline {subsubsection}{Valutazione dei linfonodi}{43}{section*.13}%
+\contentsline {subsubsection}{Conclusione}{44}{section*.14}%
+\contentsline {section}{\numberline {3.6}Tumore del colon}{44}{section.3.6}%
+\contentsline {subsubsection}{Resezione anteriore del retto}{44}{section*.15}%
+\contentsline {subsubsection}{Campionamento del pezzo chirurgico}{44}{section*.16}%
+\contentsline {subsubsection}{Margini chirurgici e linfonodi}{45}{section*.17}%
+\contentsline {paragraph}{Campionamento dei linfonodi}{45}{section*.18}%
+\contentsline {subsubsection}{Conclusione}{46}{section*.19}%
+\contentsline {chapter}{\numberline {4}Campionamento: cuti, piccoli campioni e biopsie}{47}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Campionamento di tessuti cutanei}{47}{section.4.1}%
+\contentsline {section}{\numberline {4.2}Biopsie}{47}{section.4.2}%
+\contentsline {chapter}{\numberline {5}Processazione pezzi chirurgici e bioptici}{49}{chapter.5}%
+\contentsline {section}{\numberline {5.1}Tecniche di processazione}{49}{section.5.1}%
+\contentsline {section}{\numberline {5.2}Problematiche nella processazione}{49}{section.5.2}%
+\contentsline {chapter}{\numberline {6}Inclusione in paraffina}{51}{chapter.6}%
+\contentsline {section}{\numberline {6.1}Procedura di inclusione}{51}{section.6.1}%
+\contentsline {section}{\numberline {6.2}Considerazioni tecniche}{51}{section.6.2}%
+\contentsline {chapter}{\numberline {7}Taglio al microtomo}{53}{chapter.7}%
+\contentsline {section}{\numberline {7.1}Tipologie di microtomi}{53}{section.7.1}%
+\contentsline {section}{\numberline {7.2}Tecniche di taglio}{53}{section.7.2}%
+\contentsline {chapter}{\numberline {8}Automazione in anatomia patologica}{55}{chapter.8}%
+\contentsline {section}{\numberline {8.1}Sistemi automatizzati}{55}{section.8.1}%
+\contentsline {section}{\numberline {8.2}Vantaggi e svantaggi dell’automazione}{55}{section.8.2}%
+\contentsline {chapter}{\numberline {9}Esame intraoperatorio: finalità e mezzi}{57}{chapter.9}%
+\contentsline {section}{\numberline {9.1}Obiettivi dell’esame intraoperatorio}{57}{section.9.1}%
+\contentsline {section}{\numberline {9.2}Strumenti utilizzati}{57}{section.9.2}%
+\contentsline {chapter}{\numberline {10}Tecnica esame intraoperatorio}{59}{chapter.10}%
+\contentsline {section}{\numberline {10.1}Procedura passo-passo}{59}{section.10.1}%
+\contentsline {section}{\numberline {10.2}Problematiche e considerazioni pratiche}{59}{section.10.2}%
