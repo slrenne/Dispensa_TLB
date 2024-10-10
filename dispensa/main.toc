@@ -1,3 +1,5 @@
+\babel@toc {italian}{}\relax 
+\babel@toc {italian}{}\relax 
 \contentsline {chapter}{\numberline {1}Fissazione tessuto istologico}{7}{chapter.1}%
 \contentsline {section}{\numberline {1.1}Introduzione}{7}{section.1.1}%
 \contentsline {subsection}{\numberline {1.1.1}Importanza della Fissazione dei Tessuti}{7}{subsection.1.1.1}%
@@ -33,7 +35,7 @@
 \contentsline {section}{\numberline {1.5}Fattori che Influenzano la Qualità della Fissazione}{16}{section.1.5}%
 \contentsline {subsection}{\numberline {1.5.1}Buffer e pH}{16}{subsection.1.5.1}%
 \contentsline {subsection}{\numberline {1.5.2}Durata della Fissazione e Dimensione dei Campioni}{17}{subsection.1.5.2}%
-\contentsline {subsection}{\numberline {1.5.3}Temperatura della Fissazione}{18}{subsection.1.5.3}%
+\contentsline {subsection}{\numberline {1.5.3}Temperatura della Fissazione}{17}{subsection.1.5.3}%
 \contentsline {section}{\numberline {1.6}Riassunto}{18}{section.1.6}%
 \contentsline {chapter}{\numberline {2}Introduzione al campionamento}{21}{chapter.2}%
 \contentsline {section}{\numberline {2.1}Introduzione}{21}{section.2.1}%
@@ -76,7 +78,7 @@
 \contentsline {subsection}{\numberline {3.1.2}La chirurgia non elettiva}{33}{subsection.3.1.2}%
 \contentsline {subsection}{\numberline {3.1.3}Finalità del campionamento}{34}{subsection.3.1.3}%
 \contentsline {subsection}{\numberline {3.1.4}Apertura del pezzo chirurgico}{34}{subsection.3.1.4}%
-\contentsline {subsection}{\numberline {3.1.5}Orientamento del pezzo chirurgico}{34}{subsection.3.1.5}%
+\contentsline {subsection}{\numberline {3.1.5}Orientamento del pezzo chirurgico}{35}{subsection.3.1.5}%
 \contentsline {section}{\numberline {3.2}Distinzione fra pezzi neoplastici e non neoplastici}{35}{section.3.2}%
 \contentsline {subsection}{\numberline {3.2.1}Cos'è una neoplasia}{35}{subsection.3.2.1}%
 \contentsline {subsection}{\numberline {3.2.2}Caratteristiche delle neoplasie}{35}{subsection.3.2.2}%
@@ -88,46 +90,68 @@
 \contentsline {subsection}{\numberline {3.3.1}Impatto della diagnosi patologica}{37}{subsection.3.3.1}%
 \contentsline {subsubsection}{Istotipo e Grado}{37}{section*.2}%
 \contentsline {subsection}{\numberline {3.3.2}Valutazione dei margini chirurgici}{38}{subsection.3.3.2}%
-\contentsline {subsection}{\numberline {3.3.3}Stadiazione TNM}{39}{subsection.3.3.3}%
+\contentsline {subsection}{\numberline {3.3.3}Stadiazione TNM}{38}{subsection.3.3.3}%
 \contentsline {subsection}{\numberline {3.3.4}Importanza del campionamento nella patologie neoplstiche}{40}{subsection.3.3.4}%
 \contentsline {section}{\numberline {3.4}Tumore della mammella}{40}{section.3.4}%
-\contentsline {subsubsection}{Strategie di campionamento}{40}{section*.3}%
-\contentsline {paragraph}{Quadrantectomia}{40}{section*.4}%
+\contentsline {subsubsection}{Strategie di campionamento}{41}{section*.3}%
+\contentsline {paragraph}{Quadrantectomia}{41}{section*.4}%
 \contentsline {paragraph}{Mastectomia}{41}{section*.5}%
 \contentsline {subsubsection}{Misurazione dei margini chirurgici}{41}{section*.6}%
-\contentsline {subsubsection}{Fattori prognostici e predittivi}{41}{section*.7}%
-\contentsline {subsubsection}{Conclusione}{42}{section*.8}%
-\contentsline {section}{\numberline {3.5}Tumore del polmone}{42}{section.3.5}%
-\contentsline {subsubsection}{Caratteristiche istologiche e distribuzione}{42}{section*.9}%
-\contentsline {subsubsection}{Approccio al campione chirurgico}{43}{section*.10}%
-\contentsline {subsubsection}{Campionamento dell’albero bronchiale}{43}{section*.11}%
-\contentsline {paragraph}{Carcinoma spinocellulare}{43}{section*.12}%
-\contentsline {subsubsection}{Valutazione dei linfonodi}{43}{section*.13}%
-\contentsline {subsubsection}{Conclusione}{44}{section*.14}%
-\contentsline {section}{\numberline {3.6}Tumore del colon}{44}{section.3.6}%
-\contentsline {subsubsection}{Resezione anteriore del retto}{44}{section*.15}%
-\contentsline {subsubsection}{Campionamento del pezzo chirurgico}{44}{section*.16}%
-\contentsline {subsubsection}{Margini chirurgici e linfonodi}{45}{section*.17}%
-\contentsline {paragraph}{Campionamento dei linfonodi}{45}{section*.18}%
-\contentsline {subsubsection}{Conclusione}{46}{section*.19}%
-\contentsline {chapter}{\numberline {4}Campionamento: cuti, piccoli campioni e biopsie}{47}{chapter.4}%
-\contentsline {section}{\numberline {4.1}Campionamento di tessuti cutanei}{47}{section.4.1}%
-\contentsline {section}{\numberline {4.2}Biopsie}{47}{section.4.2}%
-\contentsline {chapter}{\numberline {5}Processazione pezzi chirurgici e bioptici}{49}{chapter.5}%
-\contentsline {section}{\numberline {5.1}Tecniche di processazione}{49}{section.5.1}%
-\contentsline {section}{\numberline {5.2}Problematiche nella processazione}{49}{section.5.2}%
-\contentsline {chapter}{\numberline {6}Inclusione in paraffina}{51}{chapter.6}%
-\contentsline {section}{\numberline {6.1}Procedura di inclusione}{51}{section.6.1}%
-\contentsline {section}{\numberline {6.2}Considerazioni tecniche}{51}{section.6.2}%
-\contentsline {chapter}{\numberline {7}Taglio al microtomo}{53}{chapter.7}%
-\contentsline {section}{\numberline {7.1}Tipologie di microtomi}{53}{section.7.1}%
-\contentsline {section}{\numberline {7.2}Tecniche di taglio}{53}{section.7.2}%
-\contentsline {chapter}{\numberline {8}Automazione in anatomia patologica}{55}{chapter.8}%
-\contentsline {section}{\numberline {8.1}Sistemi automatizzati}{55}{section.8.1}%
-\contentsline {section}{\numberline {8.2}Vantaggi e svantaggi dell’automazione}{55}{section.8.2}%
-\contentsline {chapter}{\numberline {9}Esame intraoperatorio: finalità e mezzi}{57}{chapter.9}%
-\contentsline {section}{\numberline {9.1}Obiettivi dell’esame intraoperatorio}{57}{section.9.1}%
-\contentsline {section}{\numberline {9.2}Strumenti utilizzati}{57}{section.9.2}%
-\contentsline {chapter}{\numberline {10}Tecnica esame intraoperatorio}{59}{chapter.10}%
-\contentsline {section}{\numberline {10.1}Procedura passo-passo}{59}{section.10.1}%
-\contentsline {section}{\numberline {10.2}Problematiche e considerazioni pratiche}{59}{section.10.2}%
+\contentsline {subsubsection}{Fattori prognostici e predittivi}{43}{section*.7}%
+\contentsline {subsubsection}{Conclusione}{43}{section*.8}%
+\contentsline {section}{\numberline {3.5}Tumore del polmone}{43}{section.3.5}%
+\contentsline {subsubsection}{Caratteristiche istologiche e distribuzione}{43}{section*.9}%
+\contentsline {subsubsection}{Approccio al campione chirurgico}{44}{section*.10}%
+\contentsline {subsubsection}{Campionamento dell’albero bronchiale}{44}{section*.11}%
+\contentsline {paragraph}{Carcinoma spinocellulare}{44}{section*.12}%
+\contentsline {subsubsection}{Valutazione dei linfonodi}{45}{section*.13}%
+\contentsline {subsubsection}{Conclusione}{45}{section*.14}%
+\contentsline {section}{\numberline {3.6}Tumore del colon}{45}{section.3.6}%
+\contentsline {subsubsection}{Resezione anteriore del retto}{45}{section*.15}%
+\contentsline {subsubsection}{Campionamento del pezzo chirurgico}{45}{section*.16}%
+\contentsline {subsubsection}{Margini chirurgici e linfonodi}{46}{section*.17}%
+\contentsline {paragraph}{Campionamento dei linfonodi}{46}{section*.18}%
+\contentsline {subsubsection}{Conclusione}{47}{section*.19}%
+\contentsline {section}{\numberline {3.7}Tumore della prostata}{47}{section.3.7}%
+\contentsline {subsection}{\numberline {3.7.1}Incidenza e anatomia}{47}{subsection.3.7.1}%
+\contentsline {subsection}{\numberline {3.7.2}Descrizione macroscopica della prostata}{48}{subsection.3.7.2}%
+\contentsline {subsection}{\numberline {3.7.3}Campionamento della prostata}{48}{subsection.3.7.3}%
+\contentsline {paragraph}{Campionamento seriate}{48}{section*.20}%
+\contentsline {paragraph}{Stadiazione e prognosi}{48}{section*.21}%
+\contentsline {section}{\numberline {3.8}Campionamento dei linfonodi}{49}{section.3.8}%
+\contentsline {subsection}{\numberline {3.8.1}Importanza del campionamento completo}{49}{subsection.3.8.1}%
+\contentsline {subsection}{\numberline {3.8.2}Tecniche di campionamento nei vari distretti}{49}{subsection.3.8.2}%
+\contentsline {subsection}{\numberline {3.8.3}Ricerca dei linfonodi patologici}{50}{subsection.3.8.3}%
+\contentsline {section}{\numberline {3.9}Campionamento delle patologie infiammatorie e neoplastiche}{50}{section.3.9}%
+\contentsline {subsection}{\numberline {3.9.1}Rettocolite ulcerosa}{51}{subsection.3.9.1}%
+\contentsline {subsection}{\numberline {3.9.2}Morbo di Crohn}{51}{subsection.3.9.2}%
+\contentsline {subsection}{\numberline {3.9.3}Patologie tiroidee}{51}{subsection.3.9.3}%
+\contentsline {subsection}{\numberline {3.9.4}Chirurgia mammaria e bariatrica}{51}{subsection.3.9.4}%
+\contentsline {subsection}{\numberline {3.9.5}Colecistectomia per litiasi}{52}{subsection.3.9.5}%
+\contentsline {subsection}{\numberline {3.9.6}Appendicectomia}{52}{subsection.3.9.6}%
+\contentsline {subsection}{\numberline {3.9.7}Chirurgie emergenti}{52}{subsection.3.9.7}%
+\contentsline {section}{\numberline {3.10}Riassunto}{52}{section.3.10}%
+\contentsline {chapter}{\numberline {4}Campionamento: cuti, piccoli campioni e biopsie}{55}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Biopsie Cutanee}{55}{section.4.1}%
+\contentsline {subsection}{\numberline {4.1.1}Biopsia Punch}{56}{subsection.4.1.1}%
+\contentsline {subsection}{\numberline {4.1.2}Biopsia Shave}{56}{subsection.4.1.2}%
+\contentsline {subsection}{\numberline {4.1.3}Losange Cutanee}{56}{subsection.4.1.3}%
+\contentsline {subsection}{\numberline {4.1.4}Descrizione Macroscopica}{56}{subsection.4.1.4}%
+\contentsline {chapter}{\numberline {5}Processazione pezzi chirurgici e bioptici}{57}{chapter.5}%
+\contentsline {section}{\numberline {5.1}Tecniche di processazione}{57}{section.5.1}%
+\contentsline {section}{\numberline {5.2}Problematiche nella processazione}{57}{section.5.2}%
+\contentsline {chapter}{\numberline {6}Inclusione in paraffina}{59}{chapter.6}%
+\contentsline {section}{\numberline {6.1}Procedura di inclusione}{59}{section.6.1}%
+\contentsline {section}{\numberline {6.2}Considerazioni tecniche}{59}{section.6.2}%
+\contentsline {chapter}{\numberline {7}Taglio al microtomo}{61}{chapter.7}%
+\contentsline {section}{\numberline {7.1}Tipologie di microtomi}{61}{section.7.1}%
+\contentsline {section}{\numberline {7.2}Tecniche di taglio}{61}{section.7.2}%
+\contentsline {chapter}{\numberline {8}Automazione in anatomia patologica}{63}{chapter.8}%
+\contentsline {section}{\numberline {8.1}Sistemi automatizzati}{63}{section.8.1}%
+\contentsline {section}{\numberline {8.2}Vantaggi e svantaggi dell’automazione}{63}{section.8.2}%
+\contentsline {chapter}{\numberline {9}Esame intraoperatorio: finalità e mezzi}{65}{chapter.9}%
+\contentsline {section}{\numberline {9.1}Obiettivi dell’esame intraoperatorio}{65}{section.9.1}%
+\contentsline {section}{\numberline {9.2}Strumenti utilizzati}{65}{section.9.2}%
+\contentsline {chapter}{\numberline {10}Tecnica esame intraoperatorio}{67}{chapter.10}%
+\contentsline {section}{\numberline {10.1}Procedura passo-passo}{67}{section.10.1}%
+\contentsline {section}{\numberline {10.2}Problematiche e considerazioni pratiche}{67}{section.10.2}%

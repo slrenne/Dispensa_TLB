@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.10.3)  10 OCT 2024 13:53
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.10.10)  10 OCT 2024 16:39
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -23,6 +23,25 @@ File: bk12.clo 2024/02/08 v1.4n Standard LaTeX file (size option)
 \abovecaptionskip=\skip49
 \belowcaptionskip=\skip50
 \bibindent=\dimen141
+) (c:/Users/srenne/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/babel/babel.sty
+Package: babel 2024/09/18 v24.10 The Babel package
+\babel@savecnt=\count269
+\U@D=\dimen142
+\l@unhyphenated=\language36
+ (c:/Users/srenne/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/babel/txtbabel.def)
+\bbl@readstream=\read2
+\bbl@dirlevel=\count270
+ (c:/Users/srenne/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/babel-italian/italian.ldf
+Language: italian 2024/01/03 v.1.5.00 Italian support for the babel system
+\it@lettering=\count271
+\it@doublequoteactive=\count272
+\it@ISOcompliance=\count273
+)) (c:/Users/srenne/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/babel/locale/it/babel-italian.tex
+Package babel Info: Importing font and identification data for italian
+(babel)             from babel-it.ini. Reported on input line 11.
+) (c:/Users/srenne/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count274
 ) (c:/Users/srenne/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/base/inputenc.sty
 Package: inputenc 2024/02/08 v1.3d Input encoding file
 \inpenc@prehook=\toks17
@@ -43,8 +62,8 @@ Package graphics Info: Driver file: pdftex.def on input line 106.
  (c:/Users/srenne/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/graphics-def/pdftex.def
 File: pdftex.def 2024/04/13 v1.2c Graphics/color driver for pdftex
 ))
-\Gin@req@height=\dimen142
-\Gin@req@width=\dimen143
+\Gin@req@height=\dimen143
+\Gin@req@width=\dimen144
 ) (c:/Users/srenne/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/amsmath/amsmath.sty
 Package: amsmath 2024/05/23 v2.17q AMS math features
 \@mathmargin=\skip51
@@ -55,21 +74,21 @@ Package: amstext 2021/08/26 v2.01 AMS text
  (c:/Users/srenne/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/amsmath/amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0 generic functions
 \@emptytoks=\toks20
-\ex@=\dimen144
+\ex@=\dimen145
 )) (c:/Users/srenne/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/amsmath/amsbsy.sty
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
-\pmbraise@=\dimen145
+\pmbraise@=\dimen146
 ) (c:/Users/srenne/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/amsmath/amsopn.sty
 Package: amsopn 2022/04/08 v2.04 operator names
 )
-\inf@bad=\count269
+\inf@bad=\count275
 LaTeX Info: Redefining \frac on input line 233.
-\uproot@=\count270
-\leftroot@=\count271
+\uproot@=\count276
+\leftroot@=\count277
 LaTeX Info: Redefining \overline on input line 398.
 LaTeX Info: Redefining \colon on input line 409.
-\classnum@=\count272
-\DOTSCASE@=\count273
+\classnum@=\count278
+\DOTSCASE@=\count279
 LaTeX Info: Redefining \ldots on input line 495.
 LaTeX Info: Redefining \dots on input line 498.
 LaTeX Info: Redefining \cdots on input line 619.
@@ -79,30 +98,30 @@ LaTeX Info: Redefining \big on input line 721.
 LaTeX Info: Redefining \Big on input line 722.
 LaTeX Info: Redefining \bigg on input line 723.
 LaTeX Info: Redefining \Bigg on input line 724.
-\big@size=\dimen146
+\big@size=\dimen147
 LaTeX Font Info:    Redeclaring font encoding OML on input line 742.
 LaTeX Font Info:    Redeclaring font encoding OMS on input line 743.
-\macc@depth=\count274
+\macc@depth=\count280
 LaTeX Info: Redefining \bmod on input line 904.
 LaTeX Info: Redefining \pmod on input line 909.
 LaTeX Info: Redefining \smash on input line 939.
 LaTeX Info: Redefining \relbar on input line 969.
 LaTeX Info: Redefining \Relbar on input line 970.
-\c@MaxMatrixCols=\count275
+\c@MaxMatrixCols=\count281
 \dotsspace@=\muskip17
-\c@parentequation=\count276
-\dspbrk@lvl=\count277
+\c@parentequation=\count282
+\dspbrk@lvl=\count283
 \tag@help=\toks21
-\row@=\count278
-\column@=\count279
-\maxfields@=\count280
+\row@=\count284
+\column@=\count285
+\maxfields@=\count286
 \andhelp@=\toks22
-\eqnshift@=\dimen147
-\alignsep@=\dimen148
-\tagshift@=\dimen149
-\tagwidth@=\dimen150
-\totwidth@=\dimen151
-\lineht@=\dimen152
+\eqnshift@=\dimen148
+\alignsep@=\dimen149
+\tagshift@=\dimen150
+\tagwidth@=\dimen151
+\totwidth@=\dimen152
+\lineht@=\dimen153
 \@envbody=\toks23
 \multlinegap=\skip52
 \multlinetaggap=\skip53
@@ -140,16 +159,13 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
  (c:/Users/srenne/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/kvoptions/kvoptions.sty
 Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
 ))
-\c@section@level=\count281
-) (c:/Users/srenne/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/etoolbox/etoolbox.sty
-Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
-\etb@tempcnta=\count282
+\c@section@level=\count287
 ) (c:/Users/srenne/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/stringenc/stringenc.sty
 Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO)
 )
-\@linkdim=\dimen153
-\Hy@linkcounter=\count283
-\Hy@pagecounter=\count284
+\@linkdim=\dimen154
+\Hy@linkcounter=\count288
+\Hy@pagecounter=\count289
  (c:/Users/srenne/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/hyperref/pd1enc.def
 File: pd1enc.def 2024-07-10 v7.01j Hyperref: PDFDocEncoding definition (HO)
 Now handling font encoding PD1 ...
@@ -157,7 +173,7 @@ Now handling font encoding PD1 ...
 ) (c:/Users/srenne/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/intcalc/intcalc.sty
 Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
 )
-\Hy@SavedSpaceFactor=\count285
+\Hy@SavedSpaceFactor=\count290
  (c:/Users/srenne/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/hyperref/puenc.def
 File: puenc.def 2024-07-10 v7.01j Hyperref: PDF Unicode definition (HO)
 Now handling font encoding PU ...
@@ -170,21 +186,21 @@ Package hyperref Info: Plain pages OFF on input line 4172.
 Package hyperref Info: Backreferencing OFF on input line 4177.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4424.
-\c@Hy@tempcnt=\count286
+\c@Hy@tempcnt=\count291
  (c:/Users/srenne/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/url/url.sty
 \Urlmuskip=\muskip18
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
 LaTeX Info: Redefining \url on input line 4763.
-\XeTeXLinkMargin=\dimen154
+\XeTeXLinkMargin=\dimen155
  (c:/Users/srenne/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/bitset/bitset.sty
 Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
  (c:/Users/srenne/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
 Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO)
 ))
-\Fld@menulength=\count287
-\Field@Width=\dimen155
-\Fld@charsize=\dimen156
+\Fld@menulength=\count292
+\Field@Width=\dimen156
+\Fld@charsize=\dimen157
 Package hyperref Info: Hyper figures OFF on input line 6042.
 Package hyperref Info: Link nesting OFF on input line 6047.
 Package hyperref Info: Hyper index ON on input line 6050.
@@ -196,9 +212,9 @@ Package hyperref Info: PDF/A mode OFF on input line 6072.
 Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
 package with kernel methods
 )
-\Hy@abspage=\count288
-\c@Item=\count289
-\c@Hfootnote=\count290
+\Hy@abspage=\count293
+\c@Item=\count294
+\c@Hfootnote=\count295
 )
 Package hyperref Info: Driver (autodetected): hpdftex.
  (c:/Users/srenne/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/hyperref/hpdftex.def
@@ -207,8 +223,8 @@ File: hpdftex.def 2024-07-10 v7.01j Hyperref driver for pdfTeX
 Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend package
 with kernel methods
 )
-\Fld@listcount=\count291
-\c@bookmark@seq@number=\count292
+\Fld@listcount=\count296
+\c@bookmark@seq@number=\count297
  (c:/Users/srenne/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
 Package: rerunfilecheck 2022-07-10 v1.10 Rerun checks for auxiliary files (HO)
  (c:/Users/srenne/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
@@ -223,17 +239,17 @@ Package: longtable 2024-04-26 v4.20 Multi-page Table package (DPC)
 \LTright=\skip56
 \LTpre=\skip57
 \LTpost=\skip58
-\LTchunksize=\count293
-\LTcapwidth=\dimen157
+\LTchunksize=\count298
+\LTcapwidth=\dimen158
 \LT@head=\box54
 \LT@firsthead=\box55
 \LT@foot=\box56
 \LT@lastfoot=\box57
 \LT@gbox=\box58
-\LT@cols=\count294
-\LT@rows=\count295
-\c@LT@tables=\count296
-\c@LT@chunks=\count297
+\LT@cols=\count299
+\LT@rows=\count300
+\c@LT@tables=\count301
+\c@LT@chunks=\count302
 \LT@p@ftn=\toks25
 ) (c:/Users/srenne/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/pdflscape/pdflscape.sty
 Package: pdflscape 2022-10-27 v0.13 Display of landscape pages in PDF
@@ -245,36 +261,47 @@ Package: lscape 2020/05/28 v3.02 Landscape Pages (DPC)
 Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
 )) (c:/Users/srenne/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 File: l3backend-pdftex.def 2024-05-08 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count298
+\l__color_backend_stack_int=\count303
 \l__pdf_internal_box=\box59
 ) (./main.aux)
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
- (c:/Users/srenne/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Info: Redefining \it@ocap on input line 26.
+LaTeX Info: Redefining \it@ccap on input line 26.
+
+
+File italian.ldf warning: 
+italian.ldf    With OT1 encoding guillemets are poorly faked
+italian.ldf    Use T1 encoding
+italian.ldf    or specify a font with command \CaporaliFrom
+italian.ldf    See the documentation concerning the babel-italian typesetting
+italian.ldf    on input line 26.
+
+(c:/Users/srenne/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
  (c:/Users/srenne/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 ))
-Package hyperref Info: Link coloring OFF on input line 32.
+Package hyperref Info: Link coloring OFF on input line 26.
  (./main.out) (./main.out)
 \@outlinefile=\write3
 \openout3 = `main.out'.
@@ -289,11 +316,6 @@ Package hyperref Info: Link coloring OFF on input line 32.
 [2
 
 ] (./main.toc
-Overfull \hbox (18.46939pt too wide) in paragraph at lines 23--23
- [][] [][]\OT1/cmr/m/n/12 Reversibilit^^Ra delle reazioni macro-moleco-lari della formaldeide[] []  
- []
-
-
 
 [3]
 
@@ -308,13 +330,8 @@ Overfull \hbox (18.46939pt too wide) in paragraph at lines 23--23
 [6]
 Capitolo 1.
 
-Overfull \hbox (2.44592pt too wide) in paragraph at lines 10--11
-\OT1/cmr/m/n/12 pu^^Ro com-pro-met-tere il ri-conosci-mento anti-genico, so-prat-tutto dopo l'inclusione
- []
-
-
 Overfull \hbox (1.22282pt too wide) in paragraph at lines 12--12
-[]\OT1/cmr/bx/n/14.4 Perdita di Com-po-nenti Moleco-lari du-rante la Fis-
+[]\OT1/cmr/bx/n/14.4 Perdita di Com-po-nen-ti Mo-le-co-la-ri du-ran-te la Fis-
  []
 
 
@@ -322,154 +339,109 @@ Overfull \hbox (1.22282pt too wide) in paragraph at lines 12--12
 [7
 
 ]
-Overfull \hbox (32.7345pt too wide) in paragraph at lines 28--29
-\OT1/cmr/m/n/12 nel tempo, preser-vando la mi-croar-chitet-tura del tes-suto, pre-ve-nendo la degradazione
- []
-
-
 
 [8]
-Overfull \hbox (11.67175pt too wide) in paragraph at lines 32--33
-\OT1/cmr/m/n/12 fresco. Quando una sezione con-ge-lata viene po-sizion-ata su un vetrino riscaldato,
- []
-
-
 
 [9]
-Overfull \hbox (7.55513pt too wide) in paragraph at lines 48--49
-\OT1/cmr/m/n/12 metanolo) e ace-tone. Il metanolo ha una strut-tura pi^^Ru sim-ile a quella dell'acqua
- []
-
-
 
 [10]
 Underfull \hbox (badness 10000) in paragraph at lines 56--56
-[]|\OT1/cmr/bx/n/6 Disidratanti \OT1/cmr/m/n/6 (Etanolo,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 56--56
-[]|\OT1/cmr/bx/n/6 Aldeidi reti-colanti
+[]|\OT1/cmr/bx/n/6 Disidratanti \OT1/cmr/m/n/6 (Eta-no-lo,
  []
 
 
 Underfull \hbox (badness 7326) in paragraph at lines 56--56
-[]|\OT1/cmr/bx/n/6 Combinazione cloruro
+[]|\OT1/cmr/bx/n/6 Combinazione clo-ru-ro
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 56--56
-\OT1/cmr/bx/n/6 mer-curico con
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 56--56
-\OT1/cmr/bx/n/6 formaldeide o acido
+Underfull \hbox (badness 1337) in paragraph at lines 56--56
+\OT1/cmr/bx/n/6 dei-de o aci-do ace-ti-co
  []
 
 
 Underfull \hbox (badness 2042) in paragraph at lines 57--57
-[]|\OT1/cmr/m/n/6 Precipita senza ag-giunta
+[]|\OT1/cmr/m/n/6 Precipita sen-za ag-giun-ta
  []
 
 
-Underfull \hbox (badness 2393) in paragraph at lines 57--57
-\OT1/cmr/m/n/6 idrossimetilici at-tivi ad am-
+Underfull \hbox (badness 1308) in paragraph at lines 57--57
+\OT1/cmr/m/n/6 ti-co-la-zio-ne del-le ca-te-ne la-te-
  []
 
 
-Underfull \hbox (badness 2698) in paragraph at lines 57--57
-\OT1/cmr/m/n/6 mine, am-midi, al-cuni al-coli
+Underfull \hbox (badness 3657) in paragraph at lines 57--57
+\OT1/cmr/m/n/6 ra-li am-mi-ni-che/ammidiche o
  []
 
 
-Underfull \hbox (badness 2460) in paragraph at lines 57--57
-\OT1/cmr/m/n/6 reat-tivi e gruppi sul-fidrilici.
+Underfull \hbox (badness 6001) in paragraph at lines 58--58
+[]|\OT1/cmr/m/n/6 Reticolazione len-ta; leg-ge-ra
  []
 
 
 Underfull \hbox (badness 1242) in paragraph at lines 60--60
-[]|\OT1/cmr/m/n/6 Nessuna su car-boidrati puri;
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 60--60
-\OT1/cmr/m/n/6 reti-co-lazione delle gli-co-pro-
+[]|\OT1/cmr/m/n/6 Nessuna su car-boi-dra-ti pu-ri;
  []
 
 
 Underfull \hbox (badness 4181) in paragraph at lines 61--61
-[]|\OT1/cmr/bx/n/6 Qualit^^Ra della col-orazione
+[]|\OT1/cmr/bx/n/6 Qualit^^Ra del-la co-lo-ra-zio-ne
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 62--62
-[]|\OT1/cmr/bx/n/6 Effetto sull'ultrastruttura
- []
-
-
-Underfull \hbox (badness 4832) in paragraph at lines 62--62
-\OT1/cmr/m/n/6 in-clusi mi-to-con-dri, pro-
+[]|\OT1/cmr/bx/n/6 Effetto sul-l'ul-tra-strut-tu-ra
  []
 
 
 Underfull \hbox (badness 2717) in paragraph at lines 62--62
-\OT1/cmr/m/n/6 ser-vazione con glu-taraldeide;
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 62--62
-[]|\OT1/cmr/m/n/6 Usato per la vi-su-al-iz-
- []
-
-
-Underfull \hbox (badness 1394) in paragraph at lines 63--63
-\OT1/cmr/m/n/6 fos-fati a pH 7.2{7.4. Glu-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 63--63
-[]|\OT1/cmr/m/n/6 Soluzione all'1% tam-
+\OT1/cmr/m/n/6 ser-va-zio-ne con glu-ta-ral-dei-de;
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 64--64
-[]|\OT1/cmr/bx/n/6 Variabili im-por-
+[]|\OT1/cmr/bx/n/6 Variabili
+ []
+
+
+Underfull \hbox (badness 1874) in paragraph at lines 64--64
+\OT1/cmr/m/n/6 pio-ne { do-vreb-be es-se-re
+ []
+
+
+Underfull \hbox (badness 1648) in paragraph at lines 64--64
+\OT1/cmr/m/n/6 usa-to so-lo per cam-pio-ni
  []
 
 
 Underfull \hbox (badness 2903) in paragraph at lines 64--64
-[]|\OT1/cmr/m/n/6 Mitocondri e in-tegrit^^Ra della
+[]|\OT1/cmr/m/n/6 Mitocondri e in-te-grit^^Ra del-la
  []
 
 
 Underfull \hbox (badness 1552) in paragraph at lines 64--64
-\OT1/cmr/m/n/6 mem-brana nu-cle-are dis-trutti;
+\OT1/cmr/m/n/6 mem-bra-na nu-clea-re di-strut-ti;
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 65--65
-\OT1/cmr/m/n/6 non li-pidiche come
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 65--65
-\OT1/cmr/m/n/6 il glicogeno; preserva
+Underfull \hbox (badness 3861) in paragraph at lines 64--64
+\OT1/cmr/m/n/6 non ap-pro-pria-to per al-cu-ne
  []
 
 
 Underfull \hbox (badness 1325) in paragraph at lines 65--65
-[]|\OT1/cmr/m/n/6 Fissativo gen-erale uni-ver-sale;
+[]|\OT1/cmr/m/n/6 Fissativo ge-ne-ra-le uni-ver-sa-le;
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 65--65
-[]|\OT1/cmr/m/n/6 Eccellente per tes-suti
+Underfull \hbox (badness 6188) in paragraph at lines 65--65
+\OT1/cmr/m/n/6 usa-to con post-fissazione a
  []
 
 
 Underfull \hbox (badness 2726) in paragraph at lines 65--65
-[]|\OT1/cmr/m/n/6 Mordente per col-orazioni di
+[]|\OT1/cmr/m/n/6 Mordente per co-lo-ra-zio-ni di
  []
 
 
@@ -494,9 +466,6 @@ Overfull \hbox (34.8287pt too wide) in alignment at lines 54--66
 [15]
 
 [16]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
 
 
 Overfull \hbox (12.53493pt too wide) has occurred while \output is active
@@ -505,17 +474,7 @@ Overfull \hbox (12.53493pt too wide) has occurred while \output is active
 
 [17]
 
-[18]
-Overfull \hbox (2.57648pt too wide) in paragraph at lines 162--163
-\OT1/cmr/m/n/12 cer-cati fis-sativi com-pat-i-bili sia con la ges-tione routi-naria che con l'applicazione
- []
-
-
-Overfull \hbox (8.5167pt too wide) in paragraph at lines 162--163
-\OT1/cmr/m/n/12 pro-posto un "fis-sativo uni-ver-sale", com-posto da una mis-cela di paraformaldeide
- []
-
-) (./chapters/chapter2.tex
+[18]) (./chapters/chapter2.tex
 
 [19]
 
@@ -535,11 +494,6 @@ Underfull \vbox (badness 2261) has occurred while \output is active []
 [23]
 
 [24]
-Overfull \hbox (5.86783pt too wide) in paragraph at lines 71--71
-[]\OT1/cmr/bx/n/17.28 Caratteristiche Gen-er-ali della Sala Macro-
- []
-
-
 
 
 Overfull \hbox (7.90009pt too wide) has occurred while \output is active
@@ -547,7 +501,7 @@ Overfull \hbox (7.90009pt too wide) has occurred while \output is active
  []
 
 [25]
-<./chapters/images/materiale_campionamento.jpg, id=810, 3035.34pt x 1758.57pt>
+<./chapters/images/materiale_campionamento.jpg, id=813, 3035.34pt x 1758.57pt>
 File: ./chapters/images/materiale_campionamento.jpg Graphic file (type jpg)
 <use ./chapters/images/materiale_campionamento.jpg>
 Package pdftex.def Info: ./chapters/images/materiale_campionamento.jpg  used on input line 79.
@@ -555,16 +509,6 @@ Package pdftex.def Info: ./chapters/images/materiale_campionamento.jpg  used on 
 
 
 [26 <./chapters/images/materiale_campionamento.jpg>]
-Overfull \hbox (22.22488pt too wide) in paragraph at lines 92--93
-[]\OT1/cmr/m/n/12 Scatola di stru-menti, tra cui for-bici grandi e pic-cole, pinze lisce (anatomiche)
- []
-
-
-Overfull \hbox (2.62585pt too wide) in paragraph at lines 124--124
-[]\OT1/cmr/bx/n/17.28 Principi Gen-er-ali per l'Esame Macro-scop-
- []
-
-
 
 
 Overfull \hbox (7.90009pt too wide) has occurred while \output is active
@@ -584,24 +528,17 @@ Overfull \hbox (7.90009pt too wide) has occurred while \output is active
 [32]
 Capitolo 3.
 
-Overfull \hbox (13.31248pt too wide) in paragraph at lines 10--11
-\OT1/cmr/m/n/12 La sec-onda situ-azione ^^Re la chirur-gia non elet-tiva, ovvero un in-ter-vento d'urgenza.
- []
-
-
 
 [33
 
 ]
-Overfull \hbox (8.11208pt too wide) in paragraph at lines 13--14
-\OT1/cmr/m/n/12 ag-nosi. Per le pa-tolo-gie neo-plas-tiche, la di-ag-nosi non si limita all'identificazione
- []
+Underfull \vbox (badness 2591) has occurred while \output is active []
 
 
 
 [34]
 Overfull \hbox (7.34578pt too wide) in paragraph at lines 21--21
-[]\OT1/cmr/bx/n/17.28 Distinzione fra pezzi neo-plas-tici e non neo-
+[]\OT1/cmr/bx/n/17.28 Distinzione fra pez-zi neo-pla-sti-ci e non neo-
  []
 
 
@@ -614,21 +551,18 @@ Overfull \hbox (0.30588pt too wide) has occurred while \output is active
 [35]
 
 [36]
-Overfull \hbox (2.50945pt too wide) in paragraph at lines 53--54
-[]\OT1/cmr/bx/n/12 Carcinoma della prostata: \OT1/cmr/m/n/12 Il sis-tema di \OT1/cmr/m/it/12 Glea-son \OT1/cmr/m/n/12 va-l-uta l'architettura
- []
-
-
 
 [37]
-<./chapters/images/campionamento_margini.jpg, id=871, 2689.04625pt x 3035.34pt>
+<./chapters/images/campionamento_margini.jpg, id=873, 2016.78468pt x 2276.505pt>
 File: ./chapters/images/campionamento_margini.jpg Graphic file (type jpg)
 <use ./chapters/images/campionamento_margini.jpg>
 Package pdftex.def Info: ./chapters/images/campionamento_margini.jpg  used on input line 59.
-(pdftex.def)             Requested size: 331.50238pt x 374.18292pt.
+(pdftex.def)             Requested size: 292.5pt x 330.17162pt.
 
 
-[38 <./chapters/images/campionamento_margini.jpg>]
+[38]
+
+[39 <./chapters/images/campionamento_margini.jpg>]
 LaTeX Font Info:    Trying to load font information for OML+cmr on input line 96.
  (c:/Users/srenne/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/base/omlcmr.fd
 File: omlcmr.fd 2023/04/13 v2.5m Standard LaTeX font definitions
@@ -641,139 +575,114 @@ Overfull \hbox (17.85352pt too wide) in paragraph at lines 92--109
  []
 
 
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-
-
-[39]
 
 [40]
+<./chapters/images/campionamento_mammella.jpg, id=890, 2276.505pt x 2052.9197pt>
+File: ./chapters/images/campionamento_mammella.jpg Graphic file (type jpg)
+<use ./chapters/images/campionamento_mammella.jpg>
+Package pdftex.def Info: ./chapters/images/campionamento_mammella.jpg  used on input line 132.
+(pdftex.def)             Requested size: 294.4519pt x 265.51064pt.
+
 
 [41]
-Overfull \hbox (19.1439pt too wide) in paragraph at lines 152--153
-\OT1/cmr/m/n/12 quanto riguarda la sta-di-azione e il cam-pi-ona-mento anato-mopa-to-logico. L'istotipo
- []
 
-
-
-[42]
-Overfull \hbox (35.71379pt too wide) in paragraph at lines 166--167
- []\OT1/cmr/bx/n/12 Carcinoma spinocel-lu-lare[] \OT1/cmr/m/n/12 Nel car-ci-noma spinocel-lu-lare, che orig-ina dall'epitelio
- []
-
-
+[42 <./chapters/images/campionamento_mammella.jpg>]
 
 [43]
 
 [44]
-Overfull \hbox (2.18481pt too wide) in paragraph at lines 196--197
-\OT1/cmr/m/n/12 morale e quello sano per per-me-t-tere la cor-retta es-e-cuzione delle anal-isi moleco-
- []
-
-
 
 [45]
 
 [46]
-Overfull \hbox (15.20552pt too wide) in paragraph at lines 231--232
-[]\OT1/cmr/m/n/12 L'estensione mi-cro-scop-ica del tu-more, che pu^^Ro es-sere lim-i-tata alla prostata,
- []
-
-
 
 [47]
 
 [48]
-Overfull \hbox (6.46971pt too wide) in paragraph at lines 258--258
-[]\OT1/cmr/bx/n/17.28 Campionamento delle pa-tolo-gie in-fi-amma-
- []
-
-
-
-
-Overfull \hbox (87.01605pt too wide) has occurred while \output is active
-\OT1/cmr/m/sl/12 3.9.  CAMPIONAMENTO DELLE PATOLOGIE INFIAMMATORIE E NEOPLASTICHE \OT1/cmr/m/n/12 49
- []
 
 [49]
-Overfull \hbox (3.96489pt too wide) in paragraph at lines 274--275
-\OT1/cmr/m/n/12 della colecisti. Una con-dizione pa-to-log-ica spesso as-so-ci-ata ^^Re l'adenomiomatosi,
+Overfull \hbox (6.46971pt too wide) in paragraph at lines 266--266
+[]\OT1/cmr/bx/n/17.28 Campionamento del-le pa-to-lo-gie in-fiam-ma-
  []
 
 
 
 [50]
-Overfull \hbox (5.31812pt too wide) in paragraph at lines 288--289
-\OT1/cmr/m/n/12 dizioni, pur es-sendo en-trambe malat-tie in-fi-amma-to-rie dell'intestino, richiedano
+
+
+Overfull \hbox (87.01605pt too wide) has occurred while \output is active
+\OT1/cmr/m/sl/12 3.9.  CAMPIONAMENTO DELLE PATOLOGIE INFIAMMATORIE E NEOPLASTICHE \OT1/cmr/m/n/12 51
  []
 
+[51]
 
+[52]) (./chapters/chapter4.tex
 
-[51]) (./chapters/chapter4.tex
+[53]
 
-[52]
+[54
+
+]
 Capitolo 4.
 
 Underfull \vbox (badness 6300) has occurred while \output is active []
 
 
 
-[53
-
-]) (./chapters/chapter5.tex
+[55]) (./chapters/chapter5.tex
 
 
 Overfull \hbox (35.22467pt too wide) has occurred while \output is active
-\OT1/cmr/m/n/12 54 \OT1/cmr/m/sl/12 CAPITOLO 4.  CAMPIONAMENTO: CUTI, PICCOLI CAMPIONI E BIOPSIE
+\OT1/cmr/m/n/12 56 \OT1/cmr/m/sl/12 CAPITOLO 4.  CAMPIONAMENTO: CUTI, PICCOLI CAMPIONI E BIOPSIE
  []
 
-[54]
+[56]
 Capitolo 5.
 ) (./chapters/chapter6.tex
 
-[55
+[57
 
 ]
-
-[56
-
-]
-Capitolo 6.
-) (./chapters/chapter7.tex
-
-[57]
 
 [58
 
 ]
-Capitolo 7.
-) (./chapters/chapter8.tex
+Capitolo 6.
+) (./chapters/chapter7.tex
 
 [59]
 
 [60
 
 ]
-Capitolo 8.
-) (./chapters/chapter9.tex
+Capitolo 7.
+) (./chapters/chapter8.tex
 
 [61]
 
 [62
 
 ]
-Capitolo 9.
-) (./chapters/chapter10.tex
+Capitolo 8.
+) (./chapters/chapter9.tex
 
 [63]
 
 [64
 
 ]
+Capitolo 9.
+) (./chapters/chapter10.tex
+
+[65]
+
+[66
+
+]
 Capitolo 10.
 )
 
-[65] (./main.aux)
+[67] (./main.aux)
  ***********
 LaTeX2e <2024-06-01> patch level 2
 L3 programming layer <2024-09-10>
@@ -782,18 +691,18 @@ Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: C169BEA0A125C8AA2AE7A4988E0D891B;29751.
  ) 
 Here is how much of TeX's memory you used:
- 9585 strings out of 475495
- 151413 string characters out of 5774438
- 553839 words of memory out of 5000000
- 31862 multiletter control sequences out of 15000+600000
- 568284 words of font info for 70 fonts, out of 8000000 for 9000
- 36 hyphenation exceptions out of 8191
- 75i,8n,79p,1370b,517s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 10721 strings out of 474890
+ 172396 string characters out of 5753334
+ 591360 words of memory out of 5000000
+ 33018 multiletter control sequences out of 15000+600000
+ 569424 words of font info for 74 fonts, out of 8000000 for 9000
+ 372 hyphenation exceptions out of 8191
+ 75i,11n,79p,1370b,614s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <c:/Users/srenne/AppData/Roaming/TinyTeX/texmf-var/fonts/pk/ljfour/jknappen/ec/tcrm1200.600pk><c:/Users/srenne/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><c:/Users/srenne/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx6.pfb><c:/Users/srenne/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmbxti10.pfb><c:/Users/srenne/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb><c:/Users/srenne/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/Users/srenne/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><c:/Users/srenne/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb><c:/Users/srenne/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb><c:/Users/srenne/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb><c:/Users/srenne/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb><c:/Users/srenne/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl12.pfb><c:/Users/srenne/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb><c:/Users/srenne/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb><c:/Users/srenne/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on main.pdf (65 pages, 1843586 bytes).
+Output written on main.pdf (67 pages, 2301522 bytes).
 PDF statistics:
- 1136 PDF objects out of 1200 (max. 8388607)
- 1025 compressed objects within 11 object streams
- 235 named destinations out of 1000 (max. 500000)
- 1091 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1151 PDF objects out of 1200 (max. 8388607)
+ 1037 compressed objects within 11 object streams
+ 238 named destinations out of 1000 (max. 500000)
+ 1096 words of extra memory for PDF output out of 10000 (max. 10000000)
 

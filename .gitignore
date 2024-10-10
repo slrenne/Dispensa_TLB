@@ -3,6 +3,7 @@
 .RData
 .Ruserdata
 nul
-main.log
-main.synctex.gz
-main.toc
+dispensa/main.log
+dispensa/main.synctex.gz
+dispensa/main.toc
+Dispensa_TLB.Rproj
