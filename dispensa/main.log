@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.10.3)  10 OCT 2024 05:13
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.10.3)  10 OCT 2024 13:53
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -547,7 +547,7 @@ Overfull \hbox (7.90009pt too wide) has occurred while \output is active
  []
 
 [25]
-<./chapters/images/materiale_campionamento.jpg, id=709, 3035.34pt x 1758.57pt>
+<./chapters/images/materiale_campionamento.jpg, id=810, 3035.34pt x 1758.57pt>
 File: ./chapters/images/materiale_campionamento.jpg Graphic file (type jpg)
 <use ./chapters/images/materiale_campionamento.jpg>
 Package pdftex.def Info: ./chapters/images/materiale_campionamento.jpg  used on input line 79.
@@ -621,7 +621,7 @@ Overfull \hbox (2.50945pt too wide) in paragraph at lines 53--54
 
 
 [37]
-<./chapters/images/campionamento_margini.jpg, id=770, 2689.04625pt x 3035.34pt>
+<./chapters/images/campionamento_margini.jpg, id=871, 2689.04625pt x 3035.34pt>
 File: ./chapters/images/campionamento_margini.jpg Graphic file (type jpg)
 <use ./chapters/images/campionamento_margini.jpg>
 Package pdftex.def Info: ./chapters/images/campionamento_margini.jpg  used on input line 59.
@@ -672,88 +672,128 @@ Overfull \hbox (2.18481pt too wide) in paragraph at lines 196--197
 
 
 
-[45]) (./chapters/chapter4.tex
+[45]
 
 [46]
+Overfull \hbox (15.20552pt too wide) in paragraph at lines 231--232
+[]\OT1/cmr/m/n/12 L'estensione mi-cro-scop-ica del tu-more, che pu^^Ro es-sere lim-i-tata alla prostata,
+ []
+
+
+
+[47]
+
+[48]
+Overfull \hbox (6.46971pt too wide) in paragraph at lines 258--258
+[]\OT1/cmr/bx/n/17.28 Campionamento delle pa-tolo-gie in-fi-amma-
+ []
+
+
+
+
+Overfull \hbox (87.01605pt too wide) has occurred while \output is active
+\OT1/cmr/m/sl/12 3.9.  CAMPIONAMENTO DELLE PATOLOGIE INFIAMMATORIE E NEOPLASTICHE \OT1/cmr/m/n/12 49
+ []
+
+[49]
+Overfull \hbox (3.96489pt too wide) in paragraph at lines 274--275
+\OT1/cmr/m/n/12 della colecisti. Una con-dizione pa-to-log-ica spesso as-so-ci-ata ^^Re l'adenomiomatosi,
+ []
+
+
+
+[50]
+Overfull \hbox (5.31812pt too wide) in paragraph at lines 288--289
+\OT1/cmr/m/n/12 dizioni, pur es-sendo en-trambe malat-tie in-fi-amma-to-rie dell'intestino, richiedano
+ []
+
+
+
+[51]) (./chapters/chapter4.tex
+
+[52]
 Capitolo 4.
-) (./chapters/chapter5.tex
 
-[47
+Underfull \vbox (badness 6300) has occurred while \output is active []
 
-]
+
+
+[53
+
+]) (./chapters/chapter5.tex
 
 
 Overfull \hbox (35.22467pt too wide) has occurred while \output is active
-\OT1/cmr/m/n/12 48 \OT1/cmr/m/sl/12 CAPITOLO 4.  CAMPIONAMENTO: CUTI, PICCOLI CAMPIONI E BIOPSIE
+\OT1/cmr/m/n/12 54 \OT1/cmr/m/sl/12 CAPITOLO 4.  CAMPIONAMENTO: CUTI, PICCOLI CAMPIONI E BIOPSIE
  []
 
-[48
-
-]
+[54]
 Capitolo 5.
 ) (./chapters/chapter6.tex
 
-[49]
-
-[50
+[55
 
 ]
-Capitolo 6.
-) (./chapters/chapter7.tex
-
-[51]
-
-[52
-
-]
-Capitolo 7.
-) (./chapters/chapter8.tex
-
-[53]
-
-[54
-
-]
-Capitolo 8.
-) (./chapters/chapter9.tex
-
-[55]
 
 [56
 
 ]
-Capitolo 9.
-) (./chapters/chapter10.tex
+Capitolo 6.
+) (./chapters/chapter7.tex
 
 [57]
 
 [58
 
 ]
+Capitolo 7.
+) (./chapters/chapter8.tex
+
+[59]
+
+[60
+
+]
+Capitolo 8.
+) (./chapters/chapter9.tex
+
+[61]
+
+[62
+
+]
+Capitolo 9.
+) (./chapters/chapter10.tex
+
+[63]
+
+[64
+
+]
 Capitolo 10.
 )
 
-[59] (./main.aux)
+[65] (./main.aux)
  ***********
 LaTeX2e <2024-06-01> patch level 2
 L3 programming layer <2024-09-10>
  ***********
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 1AB4A3A13EAD1684CC44B2CBCA3D7DE5;25894.
+(rerunfilecheck)             Checksum: C169BEA0A125C8AA2AE7A4988E0D891B;29751.
  ) 
 Here is how much of TeX's memory you used:
- 9537 strings out of 475495
- 150697 string characters out of 5774438
- 553826 words of memory out of 5000000
- 31842 multiletter control sequences out of 15000+600000
+ 9585 strings out of 475495
+ 151413 string characters out of 5774438
+ 553839 words of memory out of 5000000
+ 31862 multiletter control sequences out of 15000+600000
  568284 words of font info for 70 fonts, out of 8000000 for 9000
  36 hyphenation exceptions out of 8191
- 75i,8n,79p,1370b,511s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,8n,79p,1370b,517s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <c:/Users/srenne/AppData/Roaming/TinyTeX/texmf-var/fonts/pk/ljfour/jknappen/ec/tcrm1200.600pk><c:/Users/srenne/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><c:/Users/srenne/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx6.pfb><c:/Users/srenne/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmbxti10.pfb><c:/Users/srenne/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb><c:/Users/srenne/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/Users/srenne/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><c:/Users/srenne/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb><c:/Users/srenne/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb><c:/Users/srenne/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb><c:/Users/srenne/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb><c:/Users/srenne/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl12.pfb><c:/Users/srenne/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb><c:/Users/srenne/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb><c:/Users/srenne/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on main.pdf (59 pages, 1821904 bytes).
+Output written on main.pdf (65 pages, 1843586 bytes).
 PDF statistics:
- 999 PDF objects out of 1000 (max. 8388607)
- 896 compressed objects within 9 object streams
- 207 named destinations out of 1000 (max. 500000)
- 931 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1136 PDF objects out of 1200 (max. 8388607)
+ 1025 compressed objects within 11 object streams
+ 235 named destinations out of 1000 (max. 500000)
+ 1091 words of extra memory for PDF output out of 10000 (max. 10000000)
 
