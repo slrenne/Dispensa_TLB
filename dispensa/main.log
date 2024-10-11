@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.10.10)  10 OCT 2024 16:39
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.10.10)  11 OCT 2024 15:49
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -321,13 +321,19 @@ Package hyperref Info: Link coloring OFF on input line 26.
 
 [4]
 
-[5])
+[5]
+
+[6])
 \tf@toc=\write4
 \openout4 = `main.toc'.
 
  (./chapters/chapter1.tex
 
-[6]
+[7]
+
+[8
+
+]
 Capitolo 1.
 
 Overfull \hbox (1.22282pt too wide) in paragraph at lines 12--12
@@ -336,15 +342,13 @@ Overfull \hbox (1.22282pt too wide) in paragraph at lines 12--12
 
 
 
-[7
-
-]
-
-[8]
-
 [9]
 
 [10]
+
+[11]
+
+[12]
 Underfull \hbox (badness 10000) in paragraph at lines 56--56
 []|\OT1/cmr/bx/n/6 Disidratanti \OT1/cmr/m/n/6 (Eta-no-lo,
  []
@@ -451,64 +455,49 @@ Overfull \hbox (34.8287pt too wide) in alignment at lines 54--66
 
 
 
-[11
+[13
 
 ]
 
-[12
+[14
 
 ]
-
-[13]
-
-[14]
 
 [15]
 
 [16]
 
-
-Overfull \hbox (12.53493pt too wide) has occurred while \output is active
-\OT1/cmr/m/sl/12 1.5.  FATTORI CHE INFLUENZANO LA QUALIT[]A DELLA FISSAZIONE \OT1/cmr/m/n/12 17
- []
-
 [17]
 
-[18]) (./chapters/chapter2.tex
+[18]
+
+
+Overfull \hbox (12.53493pt too wide) has occurred while \output is active
+\OT1/cmr/m/sl/12 1.5.  FATTORI CHE INFLUENZANO LA QUALIT[]A DELLA FISSAZIONE \OT1/cmr/m/n/12 19
+ []
 
 [19]
 
-[20
+[20]) (./chapters/chapter2.tex
+
+[21]
+
+[22
 
 ]
 Capitolo 2.
 
 
-[21]
+[23]
 
-[22]
+[24]
 Underfull \vbox (badness 2261) has occurred while \output is active []
 
 
 
-[23]
-
-[24]
-
-
-Overfull \hbox (7.90009pt too wide) has occurred while \output is active
-\OT1/cmr/m/sl/12 2.3.  CARATTERISTICHE GENERALI DELLA SALA MACROSCOPICA \OT1/cmr/m/n/12 25
- []
-
 [25]
-<./chapters/images/materiale_campionamento.jpg, id=813, 3035.34pt x 1758.57pt>
-File: ./chapters/images/materiale_campionamento.jpg Graphic file (type jpg)
-<use ./chapters/images/materiale_campionamento.jpg>
-Package pdftex.def Info: ./chapters/images/materiale_campionamento.jpg  used on input line 79.
-(pdftex.def)             Requested size: 331.50238pt x 192.04794pt.
 
-
-[26 <./chapters/images/materiale_campionamento.jpg>]
+[26]
 
 
 Overfull \hbox (7.90009pt too wide) has occurred while \output is active
@@ -516,27 +505,42 @@ Overfull \hbox (7.90009pt too wide) has occurred while \output is active
  []
 
 [27]
+<./chapters/images/materiale_campionamento.jpg, id=912, 3035.34pt x 1758.57pt>
+File: ./chapters/images/materiale_campionamento.jpg Graphic file (type jpg)
+<use ./chapters/images/materiale_campionamento.jpg>
+Package pdftex.def Info: ./chapters/images/materiale_campionamento.jpg  used on input line 79.
+(pdftex.def)             Requested size: 331.50238pt x 192.04794pt.
 
-[28]
+
+[28 <./chapters/images/materiale_campionamento.jpg>]
+
+
+Overfull \hbox (7.90009pt too wide) has occurred while \output is active
+\OT1/cmr/m/sl/12 2.3.  CARATTERISTICHE GENERALI DELLA SALA MACROSCOPICA \OT1/cmr/m/n/12 29
+ []
 
 [29]
 
 [30]
 
-[31]) (./chapters/chapter3.tex
+[31]
 
 [32]
+
+[33]) (./chapters/chapter3.tex
+
+[34]
 Capitolo 3.
 
 
-[33
+[35
 
 ]
 Underfull \vbox (badness 2591) has occurred while \output is active []
 
 
 
-[34]
+[36]
 Overfull \hbox (7.34578pt too wide) in paragraph at lines 21--21
 []\OT1/cmr/bx/n/17.28 Distinzione fra pez-zi neo-pla-sti-ci e non neo-
  []
@@ -545,24 +549,24 @@ Overfull \hbox (7.34578pt too wide) in paragraph at lines 21--21
 
 
 Overfull \hbox (0.30588pt too wide) has occurred while \output is active
-\OT1/cmr/m/sl/12 3.2.  DISTINZIONE FRA PEZZI NEOPLASTICI E NON NEOPLASTICI \OT1/cmr/m/n/12 35
+\OT1/cmr/m/sl/12 3.2.  DISTINZIONE FRA PEZZI NEOPLASTICI E NON NEOPLASTICI \OT1/cmr/m/n/12 37
  []
 
-[35]
-
-[36]
-
 [37]
-<./chapters/images/campionamento_margini.jpg, id=873, 2016.78468pt x 2276.505pt>
+
+[38]
+
+[39]
+<./chapters/images/campionamento_margini.jpg, id=971, 2016.78468pt x 2276.505pt>
 File: ./chapters/images/campionamento_margini.jpg Graphic file (type jpg)
 <use ./chapters/images/campionamento_margini.jpg>
 Package pdftex.def Info: ./chapters/images/campionamento_margini.jpg  used on input line 59.
 (pdftex.def)             Requested size: 292.5pt x 330.17162pt.
 
 
-[38]
+[40]
 
-[39 <./chapters/images/campionamento_margini.jpg>]
+[41 <./chapters/images/campionamento_margini.jpg>]
 LaTeX Font Info:    Trying to load font information for OML+cmr on input line 96.
  (c:/Users/srenne/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/base/omlcmr.fd
 File: omlcmr.fd 2023/04/13 v2.5m Standard LaTeX font definitions
@@ -576,21 +580,17 @@ Overfull \hbox (17.85352pt too wide) in paragraph at lines 92--109
 
 
 
-[40]
-<./chapters/images/campionamento_mammella.jpg, id=890, 2276.505pt x 2052.9197pt>
+[42]
+<./chapters/images/campionamento_mammella.jpg, id=988, 2276.505pt x 2052.9197pt>
 File: ./chapters/images/campionamento_mammella.jpg Graphic file (type jpg)
 <use ./chapters/images/campionamento_mammella.jpg>
 Package pdftex.def Info: ./chapters/images/campionamento_mammella.jpg  used on input line 132.
 (pdftex.def)             Requested size: 294.4519pt x 265.51064pt.
 
 
-[41]
-
-[42 <./chapters/images/campionamento_mammella.jpg>]
-
 [43]
 
-[44]
+[44 <./chapters/images/campionamento_mammella.jpg>]
 
 [45]
 
@@ -601,26 +601,30 @@ Package pdftex.def Info: ./chapters/images/campionamento_mammella.jpg  used on i
 [48]
 
 [49]
+
+[50]
+
+[51]
 Overfull \hbox (6.46971pt too wide) in paragraph at lines 266--266
 []\OT1/cmr/bx/n/17.28 Campionamento del-le pa-to-lo-gie in-fiam-ma-
  []
 
 
 
-[50]
+[52]
 
 
 Overfull \hbox (87.01605pt too wide) has occurred while \output is active
-\OT1/cmr/m/sl/12 3.9.  CAMPIONAMENTO DELLE PATOLOGIE INFIAMMATORIE E NEOPLASTICHE \OT1/cmr/m/n/12 51
+\OT1/cmr/m/sl/12 3.9.  CAMPIONAMENTO DELLE PATOLOGIE INFIAMMATORIE E NEOPLASTICHE \OT1/cmr/m/n/12 53
  []
-
-[51]
-
-[52]) (./chapters/chapter4.tex
 
 [53]
 
-[54
+[54]) (./chapters/chapter4.tex
+
+[55]
+
+[56
 
 ]
 Capitolo 4.
@@ -629,80 +633,107 @@ Underfull \vbox (badness 6300) has occurred while \output is active []
 
 
 
-[55]) (./chapters/chapter5.tex
+[57]
+<./chapters/images/campionamento_cute.jpg, id=1077, 2055.17813pt x 2199.71812pt>
+File: ./chapters/images/campionamento_cute.jpg Graphic file (type jpg)
+<use ./chapters/images/campionamento_cute.jpg>
+Package pdftex.def Info: ./chapters/images/campionamento_cute.jpg  used on input line 22.
+(pdftex.def)             Requested size: 292.5pt x 313.06032pt.
+) (./chapters/chapter5.tex
 
 
 Overfull \hbox (35.22467pt too wide) has occurred while \output is active
-\OT1/cmr/m/n/12 56 \OT1/cmr/m/sl/12 CAPITOLO 4.  CAMPIONAMENTO: CUTI, PICCOLI CAMPIONI E BIOPSIE
+\OT1/cmr/m/n/12 58 \OT1/cmr/m/sl/12 CAPITOLO 4.  CAMPIONAMENTO: CUTI, PICCOLI CAMPIONI E BIOPSIE
  []
 
-[56]
-Capitolo 5.
-) (./chapters/chapter6.tex
+[58]
 
-[57
+[59 <./chapters/images/campionamento_cute.jpg>]
+
+
+Overfull \hbox (35.22467pt too wide) has occurred while \output is active
+\OT1/cmr/m/n/12 60 \OT1/cmr/m/sl/12 CAPITOLO 4.  CAMPIONAMENTO: CUTI, PICCOLI CAMPIONI E BIOPSIE
+ []
+
+[60
 
 ]
+Capitolo 5.
 
-[58
+
+[61]
+
+[62]
+
+[63]
+
+[64]
+
+[65]
+
+[66]) (./chapters/chapter6.tex
+
+[67]
+
+[68
 
 ]
 Capitolo 6.
 ) (./chapters/chapter7.tex
 
-[59]
+[69]
 
-[60
+[70
 
 ]
 Capitolo 7.
 ) (./chapters/chapter8.tex
 
-[61]
+[71]
 
-[62
+[72
 
 ]
 Capitolo 8.
 ) (./chapters/chapter9.tex
 
-[63]
+[73]
 
-[64
+[74
 
 ]
 Capitolo 9.
 ) (./chapters/chapter10.tex
 
-[65]
+[75]
 
-[66
+[76
 
 ]
 Capitolo 10.
 )
 
-[67] (./main.aux)
+[77] (./main.aux)
  ***********
 LaTeX2e <2024-06-01> patch level 2
 L3 programming layer <2024-09-10>
  ***********
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: C169BEA0A125C8AA2AE7A4988E0D891B;29751.
+(rerunfilecheck)             Checksum: 3DD4744B4FEBD610DD0B69B4F69859E8;32909.
  ) 
 Here is how much of TeX's memory you used:
- 10721 strings out of 474890
- 172396 string characters out of 5753334
- 591360 words of memory out of 5000000
- 33018 multiletter control sequences out of 15000+600000
+ 10787 strings out of 474890
+ 173596 string characters out of 5753334
+ 591439 words of memory out of 5000000
+ 33051 multiletter control sequences out of 15000+600000
  569424 words of font info for 74 fonts, out of 8000000 for 9000
  372 hyphenation exceptions out of 8191
- 75i,11n,79p,1370b,614s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,11n,79p,1370b,639s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <c:/Users/srenne/AppData/Roaming/TinyTeX/texmf-var/fonts/pk/ljfour/jknappen/ec/tcrm1200.600pk><c:/Users/srenne/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><c:/Users/srenne/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx6.pfb><c:/Users/srenne/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmbxti10.pfb><c:/Users/srenne/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb><c:/Users/srenne/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/Users/srenne/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><c:/Users/srenne/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb><c:/Users/srenne/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb><c:/Users/srenne/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb><c:/Users/srenne/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb><c:/Users/srenne/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl12.pfb><c:/Users/srenne/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb><c:/Users/srenne/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb><c:/Users/srenne/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on main.pdf (67 pages, 2301522 bytes).
+Output written on main.pdf (77 pages, 2730228 bytes).
 PDF statistics:
- 1151 PDF objects out of 1200 (max. 8388607)
- 1037 compressed objects within 11 object streams
- 238 named destinations out of 1000 (max. 500000)
- 1096 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1297 PDF objects out of 1440 (max. 8388607)
+ 1171 compressed objects within 12 object streams
+ 271 named destinations out of 1000 (max. 500000)
+ 1245 words of extra memory for PDF output out of 10000 (max. 10000000)
 

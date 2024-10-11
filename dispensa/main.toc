@@ -1,157 +1,179 @@
 \babel@toc {italian}{}\relax 
 \babel@toc {italian}{}\relax 
-\contentsline {chapter}{\numberline {1}Fissazione tessuto istologico}{7}{chapter.1}%
-\contentsline {section}{\numberline {1.1}Introduzione}{7}{section.1.1}%
-\contentsline {subsection}{\numberline {1.1.1}Importanza della Fissazione dei Tessuti}{7}{subsection.1.1.1}%
-\contentsline {subsection}{\numberline {1.1.2}Vantaggi e Svantaggi dei Fissativi}{7}{subsection.1.1.2}%
-\contentsline {subsection}{\numberline {1.1.3}Perdita di Componenti Molecolari durante la Fissazione}{7}{subsection.1.1.3}%
-\contentsline {subsection}{\numberline {1.1.4}Artefatti nei Tessuti Fissati}{8}{subsection.1.1.4}%
-\contentsline {subsection}{\numberline {1.1.5}Conservazione della Struttura Molecolare}{8}{subsection.1.1.5}%
-\contentsline {subsection}{\numberline {1.1.6} Interazione della Fissazione con Altri Processi}{8}{subsection.1.1.6}%
-\contentsline {subsection}{\numberline {1.1.7}Fissativo Ideale in Patologia Diagnostica}{8}{subsection.1.1.7}%
-\contentsline {subsection}{\numberline {1.1.8}Caratteristiche di un Buon Fissativo}{8}{subsection.1.1.8}%
-\contentsline {section}{\numberline {1.2}Metodi Fisici di Fissazione}{9}{section.1.2}%
-\contentsline {subsection}{\numberline {1.2.1}Fissazione per Calore}{9}{subsection.1.2.1}%
-\contentsline {subsection}{\numberline {1.2.2}Fissazione con Microonde}{9}{subsection.1.2.2}%
-\contentsline {subsection}{\numberline {1.2.3}Liofilizzazione e Sostituzione a Freddo}{9}{subsection.1.2.3}%
-\contentsline {section}{\numberline {1.3}Fissazione Chimica}{10}{section.1.3}%
-\contentsline {subsection}{\numberline {1.3.1}Fissativi Coagulanti}{10}{subsection.1.3.1}%
-\contentsline {subsection}{\numberline {1.3.2}Fissativi Coagulanti Deidranti}{10}{subsection.1.3.2}%
-\contentsline {subsection}{\numberline {1.3.3}Altri Tipi di Fissativi Coagulanti}{12}{subsection.1.3.3}%
-\contentsline {subsection}{\numberline {1.3.4}Fissativi a Legame Incrociato Non Coagulanti}{13}{subsection.1.3.4}%
-\contentsline {section}{\numberline {1.4}Fissazione con Formaldeide}{13}{section.1.4}%
-\contentsline {subsection}{\numberline {1.4.1}Reazioni della Formaldeide con Proteine Nucleari e Acidi Nucleici}{14}{subsection.1.4.1}%
-\contentsline {subsection}{\numberline {1.4.2}Catene Laterali Più Reattive con la Formaldeide}{14}{subsection.1.4.2}%
-\contentsline {subsection}{\numberline {1.4.3}Reversibilità delle reazioni macromolecolari della formaldeide}{14}{subsection.1.4.3}%
-\contentsline {subsection}{\numberline {1.4.4}Effetto del lavaggio prolungato}{14}{subsection.1.4.4}%
-\contentsline {subsection}{\numberline {1.4.5}Conservazione a lungo termine in formalina}{15}{subsection.1.4.5}%
-\contentsline {subsection}{\numberline {1.4.6}Importanza dei ponti metilenici}{15}{subsection.1.4.6}%
-\contentsline {subsection}{\numberline {1.4.7}Correzione dell'iperfissazione}{15}{subsection.1.4.7}%
-\contentsline {subsection}{\numberline {1.4.8}Tipi di legami crociati e loro stabilità}{15}{subsection.1.4.8}%
-\contentsline {subsection}{\numberline {1.4.9}Saturazione dei tessuti con formalina}{15}{subsection.1.4.9}%
-\contentsline {subsection}{\numberline {1.4.10}Effetto dell'acidità nella formalina}{15}{subsection.1.4.10}%
-\contentsline {subsection}{\numberline {1.4.11}Uso della formalina acida in immunoistochimica}{16}{subsection.1.4.11}%
-\contentsline {subsection}{\numberline {1.4.12}Effetto della formaldeide su proteine, nucleotidi e lipidi}{16}{subsection.1.4.12}%
-\contentsline {section}{\numberline {1.5}Fattori che Influenzano la Qualità della Fissazione}{16}{section.1.5}%
-\contentsline {subsection}{\numberline {1.5.1}Buffer e pH}{16}{subsection.1.5.1}%
-\contentsline {subsection}{\numberline {1.5.2}Durata della Fissazione e Dimensione dei Campioni}{17}{subsection.1.5.2}%
-\contentsline {subsection}{\numberline {1.5.3}Temperatura della Fissazione}{17}{subsection.1.5.3}%
-\contentsline {section}{\numberline {1.6}Riassunto}{18}{section.1.6}%
-\contentsline {chapter}{\numberline {2}Introduzione al campionamento}{21}{chapter.2}%
-\contentsline {section}{\numberline {2.1}Introduzione}{21}{section.2.1}%
-\contentsline {subsection}{\numberline {2.1.1}L'importanza dell'esame macroscopico}{21}{subsection.2.1.1}%
-\contentsline {subsection}{\numberline {2.1.2}La dissezione come fase cruciale}{21}{subsection.2.1.2}%
-\contentsline {subsection}{\numberline {2.1.3}L'esperienza è fondamentale per campioni complessi}{22}{subsection.2.1.3}%
-\contentsline {section}{\numberline {2.2}Dall'accettazione alla processazione}{22}{section.2.2}%
-\contentsline {subsection}{\numberline {2.2.1}Posizione ideale del laboratorio}{22}{subsection.2.2.1}%
-\contentsline {subsection}{\numberline {2.2.2}Trattamento delle biopsie}{22}{subsection.2.2.2}%
-\contentsline {subsection}{\numberline {2.2.3}La preparazione e la dissezione dei campioni}{23}{subsection.2.2.3}%
-\contentsline {subsection}{\numberline {2.2.4}La stanza dell'accettazione}{23}{subsection.2.2.4}%
-\contentsline {subsection}{\numberline {2.2.5}L'accettazione del campione}{23}{subsection.2.2.5}%
-\contentsline {subsection}{\numberline {2.2.6}Regole per la verifica del campione}{24}{subsection.2.2.6}%
-\contentsline {subsection}{\numberline {2.2.7}Il numero istologico}{24}{subsection.2.2.7}%
-\contentsline {subsection}{\numberline {2.2.8}Valutazione iniziale dei campioni}{24}{subsection.2.2.8}%
-\contentsline {subsection}{\numberline {2.2.9}Procedure speciali}{24}{subsection.2.2.9}%
-\contentsline {subsection}{\numberline {2.2.10}Ruolo dei \textit {Pathologists' Assistants}}{25}{subsection.2.2.10}%
-\contentsline {subsection}{\numberline {2.2.11}La dissezione e il taglio del campione}{25}{subsection.2.2.11}%
-\contentsline {section}{\numberline {2.3}Caratteristiche Generali della Sala Macroscopica}{25}{section.2.3}%
-\contentsline {subsection}{\numberline {2.3.1}Dimensioni e Illuminazione}{26}{subsection.2.3.1}%
-\contentsline {subsection}{\numberline {2.3.2}Stazioni di Lavoro}{26}{subsection.2.3.2}%
-\contentsline {subsection}{\numberline {2.3.3}Postura durante la dissezione}{27}{subsection.2.3.3}%
-\contentsline {subsection}{\numberline {2.3.4}Strumenti di dissezione}{27}{subsection.2.3.4}%
-\contentsline {subsection}{\numberline {2.3.5}Conservazione e gestione dei campioni}{27}{subsection.2.3.5}%
-\contentsline {section}{\numberline {2.4}Principi Generali per l'Esame Macroscopico}{28}{section.2.4}%
-\contentsline {subsection}{\numberline {2.4.1}Identificazione e Orientamento del Campione}{28}{subsection.2.4.1}%
-\contentsline {subsection}{\numberline {2.4.2}Difficoltà nell'Orientamento del Campione}{28}{subsection.2.4.2}%
-\contentsline {subsection}{\numberline {2.4.3}Manipolazione del Campione}{28}{subsection.2.4.3}%
-\contentsline {subsection}{\numberline {2.4.4}Importanza della Conoscenza Anatomica del Patologo}{28}{subsection.2.4.4}%
-\contentsline {subsection}{\numberline {2.4.5}Margini Chirurgici e Diagnosi Istologica}{29}{subsection.2.4.5}%
-\contentsline {subsection}{\numberline {2.4.6}Dissezione del Campione Chirurgico}{29}{subsection.2.4.6}%
-\contentsline {subsection}{\numberline {2.4.7}Gestione di Campioni con Tessuti Molli e Ossa}{29}{subsection.2.4.7}%
-\contentsline {subsection}{\numberline {2.4.8}Conservazione delle Sezioni e Campioni}{29}{subsection.2.4.8}%
-\contentsline {subsection}{\numberline {2.4.9}Contaminazione dei Campioni}{30}{subsection.2.4.9}%
-\contentsline {subsection}{\numberline {2.4.10}Errori di Etichettatura}{30}{subsection.2.4.10}%
-\contentsline {subsection}{\numberline {2.4.11}Riassunto}{30}{subsection.2.4.11}%
-\contentsline {chapter}{\numberline {3}Campioni chirurgici}{33}{chapter.3}%
-\contentsline {section}{\numberline {3.1}Introduzione ai pezzi chirurgici}{33}{section.3.1}%
-\contentsline {subsection}{\numberline {3.1.1}La chirurgia elettiva}{33}{subsection.3.1.1}%
-\contentsline {subsection}{\numberline {3.1.2}La chirurgia non elettiva}{33}{subsection.3.1.2}%
-\contentsline {subsection}{\numberline {3.1.3}Finalità del campionamento}{34}{subsection.3.1.3}%
-\contentsline {subsection}{\numberline {3.1.4}Apertura del pezzo chirurgico}{34}{subsection.3.1.4}%
-\contentsline {subsection}{\numberline {3.1.5}Orientamento del pezzo chirurgico}{35}{subsection.3.1.5}%
-\contentsline {section}{\numberline {3.2}Distinzione fra pezzi neoplastici e non neoplastici}{35}{section.3.2}%
-\contentsline {subsection}{\numberline {3.2.1}Cos'è una neoplasia}{35}{subsection.3.2.1}%
-\contentsline {subsection}{\numberline {3.2.2}Caratteristiche delle neoplasie}{35}{subsection.3.2.2}%
-\contentsline {subsection}{\numberline {3.2.3}Sierosite}{36}{subsection.3.2.3}%
-\contentsline {subsection}{\numberline {3.2.4}Infiammazione}{36}{subsection.3.2.4}%
-\contentsline {subsection}{\numberline {3.2.5}Fibrosi e granulomi}{36}{subsection.3.2.5}%
-\contentsline {subsection}{\numberline {3.2.6}Campionamento dell'alterazione macroscopica}{37}{subsection.3.2.6}%
-\contentsline {section}{\numberline {3.3}Campioni neoplastici}{37}{section.3.3}%
-\contentsline {subsection}{\numberline {3.3.1}Impatto della diagnosi patologica}{37}{subsection.3.3.1}%
-\contentsline {subsubsection}{Istotipo e Grado}{37}{section*.2}%
-\contentsline {subsection}{\numberline {3.3.2}Valutazione dei margini chirurgici}{38}{subsection.3.3.2}%
-\contentsline {subsection}{\numberline {3.3.3}Stadiazione TNM}{38}{subsection.3.3.3}%
-\contentsline {subsection}{\numberline {3.3.4}Importanza del campionamento nella patologie neoplstiche}{40}{subsection.3.3.4}%
-\contentsline {section}{\numberline {3.4}Tumore della mammella}{40}{section.3.4}%
-\contentsline {subsubsection}{Strategie di campionamento}{41}{section*.3}%
-\contentsline {paragraph}{Quadrantectomia}{41}{section*.4}%
-\contentsline {paragraph}{Mastectomia}{41}{section*.5}%
-\contentsline {subsubsection}{Misurazione dei margini chirurgici}{41}{section*.6}%
-\contentsline {subsubsection}{Fattori prognostici e predittivi}{43}{section*.7}%
-\contentsline {subsubsection}{Conclusione}{43}{section*.8}%
-\contentsline {section}{\numberline {3.5}Tumore del polmone}{43}{section.3.5}%
-\contentsline {subsubsection}{Caratteristiche istologiche e distribuzione}{43}{section*.9}%
-\contentsline {subsubsection}{Approccio al campione chirurgico}{44}{section*.10}%
-\contentsline {subsubsection}{Campionamento dell’albero bronchiale}{44}{section*.11}%
-\contentsline {paragraph}{Carcinoma spinocellulare}{44}{section*.12}%
-\contentsline {subsubsection}{Valutazione dei linfonodi}{45}{section*.13}%
-\contentsline {subsubsection}{Conclusione}{45}{section*.14}%
-\contentsline {section}{\numberline {3.6}Tumore del colon}{45}{section.3.6}%
-\contentsline {subsubsection}{Resezione anteriore del retto}{45}{section*.15}%
-\contentsline {subsubsection}{Campionamento del pezzo chirurgico}{45}{section*.16}%
-\contentsline {subsubsection}{Margini chirurgici e linfonodi}{46}{section*.17}%
-\contentsline {paragraph}{Campionamento dei linfonodi}{46}{section*.18}%
-\contentsline {subsubsection}{Conclusione}{47}{section*.19}%
-\contentsline {section}{\numberline {3.7}Tumore della prostata}{47}{section.3.7}%
-\contentsline {subsection}{\numberline {3.7.1}Incidenza e anatomia}{47}{subsection.3.7.1}%
-\contentsline {subsection}{\numberline {3.7.2}Descrizione macroscopica della prostata}{48}{subsection.3.7.2}%
-\contentsline {subsection}{\numberline {3.7.3}Campionamento della prostata}{48}{subsection.3.7.3}%
-\contentsline {paragraph}{Campionamento seriate}{48}{section*.20}%
-\contentsline {paragraph}{Stadiazione e prognosi}{48}{section*.21}%
-\contentsline {section}{\numberline {3.8}Campionamento dei linfonodi}{49}{section.3.8}%
-\contentsline {subsection}{\numberline {3.8.1}Importanza del campionamento completo}{49}{subsection.3.8.1}%
-\contentsline {subsection}{\numberline {3.8.2}Tecniche di campionamento nei vari distretti}{49}{subsection.3.8.2}%
-\contentsline {subsection}{\numberline {3.8.3}Ricerca dei linfonodi patologici}{50}{subsection.3.8.3}%
-\contentsline {section}{\numberline {3.9}Campionamento delle patologie infiammatorie e neoplastiche}{50}{section.3.9}%
-\contentsline {subsection}{\numberline {3.9.1}Rettocolite ulcerosa}{51}{subsection.3.9.1}%
-\contentsline {subsection}{\numberline {3.9.2}Morbo di Crohn}{51}{subsection.3.9.2}%
-\contentsline {subsection}{\numberline {3.9.3}Patologie tiroidee}{51}{subsection.3.9.3}%
-\contentsline {subsection}{\numberline {3.9.4}Chirurgia mammaria e bariatrica}{51}{subsection.3.9.4}%
-\contentsline {subsection}{\numberline {3.9.5}Colecistectomia per litiasi}{52}{subsection.3.9.5}%
-\contentsline {subsection}{\numberline {3.9.6}Appendicectomia}{52}{subsection.3.9.6}%
-\contentsline {subsection}{\numberline {3.9.7}Chirurgie emergenti}{52}{subsection.3.9.7}%
-\contentsline {section}{\numberline {3.10}Riassunto}{52}{section.3.10}%
-\contentsline {chapter}{\numberline {4}Campionamento: cuti, piccoli campioni e biopsie}{55}{chapter.4}%
-\contentsline {section}{\numberline {4.1}Biopsie Cutanee}{55}{section.4.1}%
-\contentsline {subsection}{\numberline {4.1.1}Biopsia Punch}{56}{subsection.4.1.1}%
-\contentsline {subsection}{\numberline {4.1.2}Biopsia Shave}{56}{subsection.4.1.2}%
-\contentsline {subsection}{\numberline {4.1.3}Losange Cutanee}{56}{subsection.4.1.3}%
-\contentsline {subsection}{\numberline {4.1.4}Descrizione Macroscopica}{56}{subsection.4.1.4}%
-\contentsline {chapter}{\numberline {5}Processazione pezzi chirurgici e bioptici}{57}{chapter.5}%
-\contentsline {section}{\numberline {5.1}Tecniche di processazione}{57}{section.5.1}%
-\contentsline {section}{\numberline {5.2}Problematiche nella processazione}{57}{section.5.2}%
-\contentsline {chapter}{\numberline {6}Inclusione in paraffina}{59}{chapter.6}%
-\contentsline {section}{\numberline {6.1}Procedura di inclusione}{59}{section.6.1}%
-\contentsline {section}{\numberline {6.2}Considerazioni tecniche}{59}{section.6.2}%
-\contentsline {chapter}{\numberline {7}Taglio al microtomo}{61}{chapter.7}%
-\contentsline {section}{\numberline {7.1}Tipologie di microtomi}{61}{section.7.1}%
-\contentsline {section}{\numberline {7.2}Tecniche di taglio}{61}{section.7.2}%
-\contentsline {chapter}{\numberline {8}Automazione in anatomia patologica}{63}{chapter.8}%
-\contentsline {section}{\numberline {8.1}Sistemi automatizzati}{63}{section.8.1}%
-\contentsline {section}{\numberline {8.2}Vantaggi e svantaggi dell’automazione}{63}{section.8.2}%
-\contentsline {chapter}{\numberline {9}Esame intraoperatorio: finalità e mezzi}{65}{chapter.9}%
-\contentsline {section}{\numberline {9.1}Obiettivi dell’esame intraoperatorio}{65}{section.9.1}%
-\contentsline {section}{\numberline {9.2}Strumenti utilizzati}{65}{section.9.2}%
-\contentsline {chapter}{\numberline {10}Tecnica esame intraoperatorio}{67}{chapter.10}%
-\contentsline {section}{\numberline {10.1}Procedura passo-passo}{67}{section.10.1}%
-\contentsline {section}{\numberline {10.2}Problematiche e considerazioni pratiche}{67}{section.10.2}%
+\contentsline {chapter}{\numberline {1}Fissazione tessuto istologico}{9}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Introduzione}{9}{section.1.1}%
+\contentsline {subsection}{\numberline {1.1.1}Importanza della Fissazione dei Tessuti}{9}{subsection.1.1.1}%
+\contentsline {subsection}{\numberline {1.1.2}Vantaggi e Svantaggi dei Fissativi}{9}{subsection.1.1.2}%
+\contentsline {subsection}{\numberline {1.1.3}Perdita di Componenti Molecolari durante la Fissazione}{9}{subsection.1.1.3}%
+\contentsline {subsection}{\numberline {1.1.4}Artefatti nei Tessuti Fissati}{10}{subsection.1.1.4}%
+\contentsline {subsection}{\numberline {1.1.5}Conservazione della Struttura Molecolare}{10}{subsection.1.1.5}%
+\contentsline {subsection}{\numberline {1.1.6} Interazione della Fissazione con Altri Processi}{10}{subsection.1.1.6}%
+\contentsline {subsection}{\numberline {1.1.7}Fissativo Ideale in Patologia Diagnostica}{10}{subsection.1.1.7}%
+\contentsline {subsection}{\numberline {1.1.8}Caratteristiche di un Buon Fissativo}{10}{subsection.1.1.8}%
+\contentsline {section}{\numberline {1.2}Metodi Fisici di Fissazione}{11}{section.1.2}%
+\contentsline {subsection}{\numberline {1.2.1}Fissazione per Calore}{11}{subsection.1.2.1}%
+\contentsline {subsection}{\numberline {1.2.2}Fissazione con Microonde}{11}{subsection.1.2.2}%
+\contentsline {subsection}{\numberline {1.2.3}Liofilizzazione e Sostituzione a Freddo}{11}{subsection.1.2.3}%
+\contentsline {section}{\numberline {1.3}Fissazione Chimica}{12}{section.1.3}%
+\contentsline {subsection}{\numberline {1.3.1}Fissativi Coagulanti}{12}{subsection.1.3.1}%
+\contentsline {subsection}{\numberline {1.3.2}Fissativi Coagulanti Deidranti}{12}{subsection.1.3.2}%
+\contentsline {subsection}{\numberline {1.3.3}Altri Tipi di Fissativi Coagulanti}{14}{subsection.1.3.3}%
+\contentsline {subsection}{\numberline {1.3.4}Fissativi a Legame Incrociato Non Coagulanti}{15}{subsection.1.3.4}%
+\contentsline {section}{\numberline {1.4}Fissazione con Formaldeide}{15}{section.1.4}%
+\contentsline {subsection}{\numberline {1.4.1}Reazioni della Formaldeide con Proteine Nucleari e Acidi Nucleici}{16}{subsection.1.4.1}%
+\contentsline {subsection}{\numberline {1.4.2}Catene Laterali Più Reattive con la Formaldeide}{16}{subsection.1.4.2}%
+\contentsline {subsection}{\numberline {1.4.3}Reversibilità delle reazioni macromolecolari della formaldeide}{16}{subsection.1.4.3}%
+\contentsline {subsection}{\numberline {1.4.4}Effetto del lavaggio prolungato}{16}{subsection.1.4.4}%
+\contentsline {subsection}{\numberline {1.4.5}Conservazione a lungo termine in formalina}{17}{subsection.1.4.5}%
+\contentsline {subsection}{\numberline {1.4.6}Importanza dei ponti metilenici}{17}{subsection.1.4.6}%
+\contentsline {subsection}{\numberline {1.4.7}Correzione dell'iperfissazione}{17}{subsection.1.4.7}%
+\contentsline {subsection}{\numberline {1.4.8}Tipi di legami crociati e loro stabilità}{17}{subsection.1.4.8}%
+\contentsline {subsection}{\numberline {1.4.9}Saturazione dei tessuti con formalina}{17}{subsection.1.4.9}%
+\contentsline {subsection}{\numberline {1.4.10}Effetto dell'acidità nella formalina}{17}{subsection.1.4.10}%
+\contentsline {subsection}{\numberline {1.4.11}Uso della formalina acida in immunoistochimica}{18}{subsection.1.4.11}%
+\contentsline {subsection}{\numberline {1.4.12}Effetto della formaldeide su proteine, nucleotidi e lipidi}{18}{subsection.1.4.12}%
+\contentsline {section}{\numberline {1.5}Fattori che Influenzano la Qualità della Fissazione}{18}{section.1.5}%
+\contentsline {subsection}{\numberline {1.5.1}Buffer e pH}{18}{subsection.1.5.1}%
+\contentsline {subsection}{\numberline {1.5.2}Durata della Fissazione e Dimensione dei Campioni}{19}{subsection.1.5.2}%
+\contentsline {subsection}{\numberline {1.5.3}Temperatura della Fissazione}{19}{subsection.1.5.3}%
+\contentsline {section}{\numberline {1.6}Riassunto}{20}{section.1.6}%
+\contentsline {chapter}{\numberline {2}Introduzione al campionamento}{23}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Introduzione}{23}{section.2.1}%
+\contentsline {subsection}{\numberline {2.1.1}L'importanza dell'esame macroscopico}{23}{subsection.2.1.1}%
+\contentsline {subsection}{\numberline {2.1.2}La dissezione come fase cruciale}{23}{subsection.2.1.2}%
+\contentsline {subsection}{\numberline {2.1.3}L'esperienza è fondamentale per campioni complessi}{24}{subsection.2.1.3}%
+\contentsline {section}{\numberline {2.2}Dall'accettazione alla processazione}{24}{section.2.2}%
+\contentsline {subsection}{\numberline {2.2.1}Posizione ideale del laboratorio}{24}{subsection.2.2.1}%
+\contentsline {subsection}{\numberline {2.2.2}Trattamento delle biopsie}{24}{subsection.2.2.2}%
+\contentsline {subsection}{\numberline {2.2.3}La preparazione e la dissezione dei campioni}{25}{subsection.2.2.3}%
+\contentsline {subsection}{\numberline {2.2.4}La stanza dell'accettazione}{25}{subsection.2.2.4}%
+\contentsline {subsection}{\numberline {2.2.5}L'accettazione del campione}{25}{subsection.2.2.5}%
+\contentsline {subsection}{\numberline {2.2.6}Regole per la verifica del campione}{26}{subsection.2.2.6}%
+\contentsline {subsection}{\numberline {2.2.7}Il numero istologico}{26}{subsection.2.2.7}%
+\contentsline {subsection}{\numberline {2.2.8}Valutazione iniziale dei campioni}{26}{subsection.2.2.8}%
+\contentsline {subsection}{\numberline {2.2.9}Procedure speciali}{26}{subsection.2.2.9}%
+\contentsline {subsection}{\numberline {2.2.10}Ruolo dei \textit {Pathologists' Assistants}}{27}{subsection.2.2.10}%
+\contentsline {subsection}{\numberline {2.2.11}La dissezione e il taglio del campione}{27}{subsection.2.2.11}%
+\contentsline {section}{\numberline {2.3}Caratteristiche Generali della Sala Macroscopica}{27}{section.2.3}%
+\contentsline {subsection}{\numberline {2.3.1}Dimensioni e Illuminazione}{28}{subsection.2.3.1}%
+\contentsline {subsection}{\numberline {2.3.2}Stazioni di Lavoro}{28}{subsection.2.3.2}%
+\contentsline {subsection}{\numberline {2.3.3}Postura durante la dissezione}{29}{subsection.2.3.3}%
+\contentsline {subsection}{\numberline {2.3.4}Strumenti di dissezione}{29}{subsection.2.3.4}%
+\contentsline {subsection}{\numberline {2.3.5}Conservazione e gestione dei campioni}{29}{subsection.2.3.5}%
+\contentsline {section}{\numberline {2.4}Principi Generali per l'Esame Macroscopico}{30}{section.2.4}%
+\contentsline {subsection}{\numberline {2.4.1}Identificazione e Orientamento del Campione}{30}{subsection.2.4.1}%
+\contentsline {subsection}{\numberline {2.4.2}Difficoltà nell'Orientamento del Campione}{30}{subsection.2.4.2}%
+\contentsline {subsection}{\numberline {2.4.3}Manipolazione del Campione}{30}{subsection.2.4.3}%
+\contentsline {subsection}{\numberline {2.4.4}Importanza della Conoscenza Anatomica del Patologo}{30}{subsection.2.4.4}%
+\contentsline {subsection}{\numberline {2.4.5}Margini Chirurgici e Diagnosi Istologica}{31}{subsection.2.4.5}%
+\contentsline {subsection}{\numberline {2.4.6}Dissezione del Campione Chirurgico}{31}{subsection.2.4.6}%
+\contentsline {subsection}{\numberline {2.4.7}Gestione di Campioni con Tessuti Molli e Ossa}{31}{subsection.2.4.7}%
+\contentsline {subsection}{\numberline {2.4.8}Conservazione delle Sezioni e Campioni}{31}{subsection.2.4.8}%
+\contentsline {subsection}{\numberline {2.4.9}Contaminazione dei Campioni}{32}{subsection.2.4.9}%
+\contentsline {subsection}{\numberline {2.4.10}Errori di Etichettatura}{32}{subsection.2.4.10}%
+\contentsline {subsection}{\numberline {2.4.11}Riassunto}{32}{subsection.2.4.11}%
+\contentsline {chapter}{\numberline {3}Campioni chirurgici}{35}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Introduzione ai pezzi chirurgici}{35}{section.3.1}%
+\contentsline {subsection}{\numberline {3.1.1}La chirurgia elettiva}{35}{subsection.3.1.1}%
+\contentsline {subsection}{\numberline {3.1.2}La chirurgia non elettiva}{35}{subsection.3.1.2}%
+\contentsline {subsection}{\numberline {3.1.3}Finalità del campionamento}{36}{subsection.3.1.3}%
+\contentsline {subsection}{\numberline {3.1.4}Apertura del pezzo chirurgico}{36}{subsection.3.1.4}%
+\contentsline {subsection}{\numberline {3.1.5}Orientamento del pezzo chirurgico}{37}{subsection.3.1.5}%
+\contentsline {section}{\numberline {3.2}Distinzione fra pezzi neoplastici e non neoplastici}{37}{section.3.2}%
+\contentsline {subsection}{\numberline {3.2.1}Cos'è una neoplasia}{37}{subsection.3.2.1}%
+\contentsline {subsection}{\numberline {3.2.2}Caratteristiche delle neoplasie}{37}{subsection.3.2.2}%
+\contentsline {subsection}{\numberline {3.2.3}Sierosite}{38}{subsection.3.2.3}%
+\contentsline {subsection}{\numberline {3.2.4}Infiammazione}{38}{subsection.3.2.4}%
+\contentsline {subsection}{\numberline {3.2.5}Fibrosi e granulomi}{38}{subsection.3.2.5}%
+\contentsline {subsection}{\numberline {3.2.6}Campionamento dell'alterazione macroscopica}{39}{subsection.3.2.6}%
+\contentsline {section}{\numberline {3.3}Campioni neoplastici}{39}{section.3.3}%
+\contentsline {subsection}{\numberline {3.3.1}Impatto della diagnosi patologica}{39}{subsection.3.3.1}%
+\contentsline {subsubsection}{Istotipo e Grado}{39}{section*.2}%
+\contentsline {subsection}{\numberline {3.3.2}Valutazione dei margini chirurgici}{40}{subsection.3.3.2}%
+\contentsline {subsection}{\numberline {3.3.3}Stadiazione TNM}{40}{subsection.3.3.3}%
+\contentsline {subsection}{\numberline {3.3.4}Importanza del campionamento nella patologie neoplstiche}{42}{subsection.3.3.4}%
+\contentsline {section}{\numberline {3.4}Tumore della mammella}{42}{section.3.4}%
+\contentsline {subsubsection}{Strategie di campionamento}{43}{section*.3}%
+\contentsline {paragraph}{Quadrantectomia}{43}{section*.4}%
+\contentsline {paragraph}{Mastectomia}{43}{section*.5}%
+\contentsline {subsubsection}{Misurazione dei margini chirurgici}{43}{section*.6}%
+\contentsline {subsubsection}{Fattori prognostici e predittivi}{45}{section*.7}%
+\contentsline {subsubsection}{Conclusione}{45}{section*.8}%
+\contentsline {section}{\numberline {3.5}Tumore del polmone}{45}{section.3.5}%
+\contentsline {subsubsection}{Caratteristiche istologiche e distribuzione}{45}{section*.9}%
+\contentsline {subsubsection}{Approccio al campione chirurgico}{46}{section*.10}%
+\contentsline {subsubsection}{Campionamento dell’albero bronchiale}{46}{section*.11}%
+\contentsline {paragraph}{Carcinoma spinocellulare}{46}{section*.12}%
+\contentsline {subsubsection}{Valutazione dei linfonodi}{47}{section*.13}%
+\contentsline {subsubsection}{Conclusione}{47}{section*.14}%
+\contentsline {section}{\numberline {3.6}Tumore del colon}{47}{section.3.6}%
+\contentsline {subsubsection}{Resezione anteriore del retto}{47}{section*.15}%
+\contentsline {subsubsection}{Campionamento del pezzo chirurgico}{47}{section*.16}%
+\contentsline {subsubsection}{Margini chirurgici e linfonodi}{48}{section*.17}%
+\contentsline {paragraph}{Campionamento dei linfonodi}{48}{section*.18}%
+\contentsline {subsubsection}{Conclusione}{49}{section*.19}%
+\contentsline {section}{\numberline {3.7}Tumore della prostata}{49}{section.3.7}%
+\contentsline {subsection}{\numberline {3.7.1}Incidenza e anatomia}{49}{subsection.3.7.1}%
+\contentsline {subsection}{\numberline {3.7.2}Descrizione macroscopica della prostata}{50}{subsection.3.7.2}%
+\contentsline {subsection}{\numberline {3.7.3}Campionamento della prostata}{50}{subsection.3.7.3}%
+\contentsline {paragraph}{Campionamento seriate}{50}{section*.20}%
+\contentsline {paragraph}{Stadiazione e prognosi}{50}{section*.21}%
+\contentsline {section}{\numberline {3.8}Campionamento dei linfonodi}{51}{section.3.8}%
+\contentsline {subsection}{\numberline {3.8.1}Importanza del campionamento completo}{51}{subsection.3.8.1}%
+\contentsline {subsection}{\numberline {3.8.2}Tecniche di campionamento nei vari distretti}{51}{subsection.3.8.2}%
+\contentsline {subsection}{\numberline {3.8.3}Ricerca dei linfonodi patologici}{52}{subsection.3.8.3}%
+\contentsline {section}{\numberline {3.9}Campionamento delle patologie infiammatorie e neoplastiche}{52}{section.3.9}%
+\contentsline {subsection}{\numberline {3.9.1}Rettocolite ulcerosa}{53}{subsection.3.9.1}%
+\contentsline {subsection}{\numberline {3.9.2}Morbo di Crohn}{53}{subsection.3.9.2}%
+\contentsline {subsection}{\numberline {3.9.3}Patologie tiroidee}{53}{subsection.3.9.3}%
+\contentsline {subsection}{\numberline {3.9.4}Chirurgia mammaria e bariatrica}{53}{subsection.3.9.4}%
+\contentsline {subsection}{\numberline {3.9.5}Colecistectomia per litiasi}{54}{subsection.3.9.5}%
+\contentsline {subsection}{\numberline {3.9.6}Appendicectomia}{54}{subsection.3.9.6}%
+\contentsline {subsection}{\numberline {3.9.7}Chirurgie emergenti}{54}{subsection.3.9.7}%
+\contentsline {section}{\numberline {3.10}Riassunto}{54}{section.3.10}%
+\contentsline {chapter}{\numberline {4}Campionamento: cuti, piccoli campioni e biopsie}{57}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Biopsie Cutanee}{57}{section.4.1}%
+\contentsline {subsection}{\numberline {4.1.1}Biopsia Punch}{58}{subsection.4.1.1}%
+\contentsline {subsection}{\numberline {4.1.2}Biopsia Shave}{58}{subsection.4.1.2}%
+\contentsline {subsection}{\numberline {4.1.3}Losange Cutanee}{58}{subsection.4.1.3}%
+\contentsline {subsection}{\numberline {4.1.4}Descrizione Macroscopica}{58}{subsection.4.1.4}%
+\contentsline {chapter}{\numberline {5}Processazione pezzi chirurgici e bioptici}{61}{chapter.5}%
+\contentsline {section}{\numberline {5.1}Introduzione}{61}{section.5.1}%
+\contentsline {section}{\numberline {5.2}Etichettatura dei Tessuti}{61}{section.5.2}%
+\contentsline {section}{\numberline {5.3}Principi dela processazione dei Tessuti}{62}{section.5.3}%
+\contentsline {subsection}{\numberline {5.3.1}Fattori che influenzano la velocità di processazione}{62}{subsection.5.3.1}%
+\contentsline {subsubsection}{Agitazione}{62}{section*.22}%
+\contentsline {subsubsection}{Calore}{62}{section*.23}%
+\contentsline {subsubsection}{Viscosità}{63}{section*.24}%
+\contentsline {subsubsection}{Vuoto}{63}{section*.25}%
+\contentsline {section}{\numberline {5.4}Fasi dela processazione dei Tessuti}{63}{section.5.4}%
+\contentsline {section}{\numberline {5.5}Fissazione}{63}{section.5.5}%
+\contentsline {section}{\numberline {5.6}Disidratazione}{64}{section.5.6}%
+\contentsline {section}{\numberline {5.7}Chiarificazione}{64}{section.5.7}%
+\contentsline {section}{\numberline {5.8}Mezzi di inclusione alternativi}{64}{section.5.8}%
+\contentsline {subsection}{\numberline {5.8.1}Resina}{64}{subsection.5.8.1}%
+\contentsline {subsection}{\numberline {5.8.2}Agar}{64}{subsection.5.8.2}%
+\contentsline {subsection}{\numberline {5.8.3}Gelatina}{65}{subsection.5.8.3}%
+\contentsline {subsection}{\numberline {5.8.4}Celloidina}{65}{subsection.5.8.4}%
+\contentsline {section}{\numberline {5.9}Inclusione in paraffina}{65}{section.5.9}%
+\contentsline {subsection}{\numberline {5.9.1}Orientamento dei tessuti}{65}{subsection.5.9.1}%
+\contentsline {subsection}{\numberline {5.9.2}Tessuti che richiedono orientamento speciale}{66}{subsection.5.9.2}%
+\contentsline {section}{\numberline {5.10}Processazione automatizzata dei tessuti}{66}{section.5.10}%
+\contentsline {subsection}{\numberline {5.10.1}Processatori a microonde}{66}{subsection.5.10.1}%
+\contentsline {subsection}{\numberline {5.10.2}Vantaggi delle nuove tecnologie}{67}{subsection.5.10.2}%
+\contentsline {section}{\numberline {5.11}Riassunto}{67}{section.5.11}%
+\contentsline {chapter}{\numberline {6}Inclusione in paraffina}{69}{chapter.6}%
+\contentsline {section}{\numberline {6.1}Procedura di inclusione}{69}{section.6.1}%
+\contentsline {section}{\numberline {6.2}Considerazioni tecniche}{69}{section.6.2}%
+\contentsline {chapter}{\numberline {7}Taglio al microtomo}{71}{chapter.7}%
+\contentsline {section}{\numberline {7.1}Tipologie di microtomi}{71}{section.7.1}%
+\contentsline {section}{\numberline {7.2}Tecniche di taglio}{71}{section.7.2}%
+\contentsline {chapter}{\numberline {8}Automazione in anatomia patologica}{73}{chapter.8}%
+\contentsline {section}{\numberline {8.1}Sistemi automatizzati}{73}{section.8.1}%
+\contentsline {section}{\numberline {8.2}Vantaggi e svantaggi dell’automazione}{73}{section.8.2}%
+\contentsline {chapter}{\numberline {9}Esame intraoperatorio: finalità e mezzi}{75}{chapter.9}%
+\contentsline {section}{\numberline {9.1}Obiettivi dell’esame intraoperatorio}{75}{section.9.1}%
+\contentsline {section}{\numberline {9.2}Strumenti utilizzati}{75}{section.9.2}%
+\contentsline {chapter}{\numberline {10}Tecnica esame intraoperatorio}{77}{chapter.10}%
+\contentsline {section}{\numberline {10.1}Procedura passo-passo}{77}{section.10.1}%
+\contentsline {section}{\numberline {10.2}Problematiche e considerazioni pratiche}{77}{section.10.2}%
