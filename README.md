@@ -15,4 +15,4 @@
 9.  Esame intraoperatorio finalità e mezzi
 10. Tecnica esame intraoperatorio.
 
-La versione aggiornata della dispensa può essere scaricata [qui](./dispensa/main.pdf).
+La versione aggiornata della dispensa può essere [consultata](https://docs.google.com/viewer?url=https://github.com/slrenne/Dispensa_TLB/raw/main/dispensa/main.pdf) o [scaricata](https://github.com/slrenne/Dispensa_TLB/raw/main/dispensa/main.pdf).
