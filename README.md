@@ -1,6 +1,6 @@
 # Corso integrato di *di Metodologie diagnostiche di anatomia patologica*
 
-## Metodi e tecniche di anatomia, isto e citologia
+## Metodi e Tecniche di Istologia in Anatomia Patologica
 
 ### Lezioni
 
