@@ -1,4 +1,4 @@
-\chapter{Processazione dei pezzi chirurgici e bioptici}
+\chapter{Processazione}
 
 \section{Introduzione}
 Dopo la rimozione di un campione di tessuto dal paziente, una serie di processi fisici e chimici deve essere effettuata per garantire che i preparati microscopici finali siano di qualità diagnostica.  
@@ -12,23 +12,11 @@ Questo capitolo fornirà una panoramica dei passaggi fondamentali e dei reagenti
 
 
 
-\section{Etichettatura dei tessuti}
-A ciascun campione di tessuto viene assegnato un numero o codice di accesso univoco (come descritto nel Capitolo~2).  
-Questo codice deve accompagnare il campione durante tutto il percorso laboratoristico e può essere generato manualmente o elettronicamente.
-
-Sistemi moderni includono codici a barre, codici QR e caratteri incisi su cassette e vetrini tramite sistemi di pre-etichettatura automatizzata. L’utilizzo di penne o matite resistenti ai reagenti è ancora comune, ma l’automazione aumenta la tracciabilità e riduce gli errori.
-
-% \textbf{Figura suggerita 1:}  
-% \textit{Schema del flusso di identificazione di un campione istologico — dal prelievo alla refertazione.}  
-% (Didascalia: “Esempio di percorso di identificazione e tracciabilità del campione nel laboratorio di patologia.”)
-
-
-
 \section{Principi della processazione dei tessuti}
 La processazione ha lo scopo di rimuovere l’acqua estraibile dal tessuto, sostituendola con un mezzo di supporto solido che ne permetta il taglio al microtomo senza danneggiare o distorcere le strutture cellulari.
 
 \subsection{Fattori che influenzano la velocità di processazione}
-Durante l’immersione del tessuto nei fluidi, si verifica uno scambio tra il liquido intracellulare e quello esterno. La velocità di questo scambio dipende da vari fattori:
+Durante l’immersione del tessuto nei fluidi, si verifica uno scambio tra il liquido intracellulare e quello esterno. La velocità di questo scambio dipende da vari fattori (Figura \ref{fig:factors-penetrazione}):
 
 \begin{itemize}
     \item Agitazione del fluido;
@@ -36,7 +24,8 @@ Durante l’immersione del tessuto nei fluidi, si verifica uno scambio tra il li
     \item Viscosità del reagente;
     \item Applicazione di pressione o vuoto.
 \end{itemize}
- Figura 2: Fattori che influenzano la penetrazione dei reagenti
+
+
 \begin{figure}[htbp]
   \centering
   \begin{tikzpicture}[
@@ -48,7 +37,7 @@ Durante l’immersione del tessuto nei fluidi, si verifica uno scambio tra il li
     \node[draw, circle, minimum size=22mm, align=center] (tissue) {Campione\\(tessuto)};
     % factors around
     \node[box, above left=10mm and 26mm of tissue] (agit) {Agitazione \\ (meccanica / flusso)};
-    \node[box, above right=10mm and 26mm of tissue] (heat) {Calore \\ (controllo 45°C)};
+    \node[box, above right=10mm and 26mm of tissue] (heat) {Calore \\ (\textless{} 45°C)};
     \node[box, below left=10mm and 26mm of tissue] (visc) {Viscosità \\ (reagente)};
     \node[box, below right=10mm and 26mm of tissue] (vac) {Vuoto/Pressione \\ (max 50,79 kPa)};
     % arrows to tissue
@@ -74,7 +63,14 @@ La viscosità misura la resistenza di un fluido al flusso: soluzioni meno viscos
 \subsubsection{Vuoto}
 L’applicazione del vuoto facilita l’infiltrazione e rimuove bolle d’aria dai tessuti porosi. Non deve superare i 50,79~kPa per evitare danni strutturali.
 
+Questi fattori sono facilitati nella camera dei processatori automatici per ottimizzare la qualità e la velocità della processazione (Figura \ref{fig:camera_vuota} ).
 
+\begin{figure}[htbp]
+    \centering
+    \includegraphics[width=0.75\textwidth]{processazione_camera_vuota}
+    \caption{La camera del processatore automatico.}
+    \label{fig:camera_vuota}
+\end{figure}
 
 \section{Fasi della processazione dei tessuti}
 \begin{enumerate}
@@ -127,7 +123,7 @@ Tra i più utilizzati:
     Metanolo & Rapida & Può indurire & Alta tossicità & Sostituto in protocolli specifici \\
     Isopropanolo & Moderata & Minore indurimento & Minore tossicità rispetto al metanolo & Processazione a microonde \\
     Butanolo & Lenta & Meno restringimento & Meno comune & Istologia vegetale/animale \\
-    Acetone & Molto rapida & Può causare fragilità & Infiammabile, volatilen & Rimozione lipidi, procedure rapide \\
+    Acetone & Molto rapida & Può causare fragilità & Infiammabile, volatile & Rimozione lipidi, procedure rapide \\
     \bottomrule
   \end{tabular}
   \end{adjustbox}
@@ -219,7 +215,7 @@ Quando la paraffina non è adatta (per tessuti lipidici, fragili o soggetti a ca
 Il principio fondamentale consiste nello scambio sequenziale di fluidi per tempi predefiniti in condizioni controllate.  
 Le apparecchiature moderne includono:
 \begin{itemize}
-    \item Processatori chiusi a retorta;
+    \item Processatori chiusi;
     \item Processatori a microonde;
     \item Sistemi a flusso continuo.
 \end{itemize}
@@ -245,12 +241,12 @@ I forni a microonde specifici per istologia riducono i tempi da ore a minuti gra
 La processazione dei campioni chirurgici e bioptici è un passaggio chiave per la preparazione dei tessuti alla valutazione microscopica.  
 Le fasi principali comprendono:
 \begin{itemize}
-    \item Etichettatura accurata del campione;
-    \item Fissazione, disidratazione, chiarificazione e infiltrazione;
-    \item Inclusione in paraffina e successivo taglio al microtomo.
+    \item Fissazione, 
+    \item disidratazione, 
+    \item chiarificazione e 
+    \item infiltrazione;
 \end{itemize}
-
 La qualità del preparato dipende da variabili fisiche (agitazione, calore, viscosità, vuoto) e dalla corretta applicazione dei protocolli.  
 L’introduzione di tecnologie automatizzate e processatori a microonde ha ridotto i tempi, aumentato la standardizzazione e migliorato la qualità dei risultati diagnostici.
-
+Il passaggio successivo alla processazione è l'inclusione in paraffina.
 
